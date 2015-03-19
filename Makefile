@@ -8,7 +8,7 @@ MQL = /usr/bin/mql
 CLEANFILES = *~ *.pyc *.pyo \
              MQL/OT1871.mql \
              EmdrosDB/ot1871.sqlite3 \
-             MQL/*~ BibleWorks/*~
+             MQL/*~ BibleWorks/*~ OSIS/*~
 
 
 all: MQL/OT1871.mql BibleWorks/DA_OT1871_bibleworks.txt
@@ -29,7 +29,7 @@ clean:
 mql: MQL/OT1871.mql
 
 MQL/OT1871.mql: OSIS/DA_OT1871.OSIS.xml osis2mql.py 
-	python osis2mql.py --NT $< >$@
+	python osis2mql.py --OT $< >$@
 
 
 
