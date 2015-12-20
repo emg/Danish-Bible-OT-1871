@@ -20,7 +20,7 @@ OCR scanning from a hardcopy Bible with Roman script (not Fraktur).
 - Ulrik Sandborg-Petersen did the scanning, OCR, cleanup, and
   OSIS-ification.
 
-Send corrections and comments to ulrikp-at-emergence-dot-dk.
+Send corrections and comments to ulrikp-at-scripturesys-dot-com
 
 Or send Ulrik a pull request via Github.
 
@@ -36,4 +36,4 @@ Praise the LORD.
 Enjoy!
 
 Ulrik Sandborg-Petersen
-Last update: 2015-03-17
+Last update: 2015-12-20
