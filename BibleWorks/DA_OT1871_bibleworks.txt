@@ -31,7 +31,7 @@ Gen 1:30 Og alle Dyr paa Jorden og alle Fugle under Himmelen og alt Kryb paa Jor
 Gen 1:31 Og Gud saa alt det, han havde gjort, og se, det var meget godt; og der blev Aften, og der blev Morgen, den sjette Dag.
 Gen 2:1 Og Himmelen og Jorden bleve fuldkommede, og al deres Hær.
 Gen 2:2 Og Gud havde fuldkommet paa den syvende Dag sin Gerning, som han havde gjort, og hvilede paa den syvende Dag fra al sin Gerning, som han havde gjort.
-Gen 2:3 Og Gud velsignede den syrende Dag og helligede den; thi paa den hvilede han fra al sin Gerning, som Gud skabte og gjorde.
+Gen 2:3 Og Gud velsignede den syvende Dag og helligede den; thi paa den hvilede han fra al sin Gerning, som Gud skabte og gjorde.
 Gen 2:4 Disse ere Himmelens og Jordens Oprindelser, der de skabtes, paa den Dag Gud Herren gjorde Jorden og Himmelen.
 Gen 2:5 Og alle Haande Buske paa Marken vare endnu ikke paa Jorden, og alle Haande Urter paa Marken vare endnu ikke fremspirede; thi Gud Herren havde ikke ladet regne paa Jorden, og der var intet Menneske til at dyrke Jorden.
 Gen 2:6 Og der opgik en Damp af Jorden og vandede al Jordens Overflade.
@@ -185,7 +185,7 @@ Gen 7:24 Og Vandet havde Overhaand over Jorden hundrede og halvtredsindstyve Dag
 Gen 8:1 Og Gud ihukom Noa og alle vilde Dyr og alt Kvæg, som var med ham i Arken, og Gud lod Vejr fare over Jorden, og Vandet faldt.
 Gen 8:2 Og Kilderne i Afgrunden stoppedes, og Himmelens Sluser og Regnen fra Himmelen holdt op.
 Gen 8:3 Og Vandet vendte tilbage af Jorden, gaaende frem og tilbage; og Vandet formindskedes, efter at hundrede og halvtredsindstyve Dage vare forløbne.
-Gen 8:4 Og Arken hvilede i den syvende Maaned, paa deri syttende Dag i Maaneden, paa Ararats Bjerge.
+Gen 8:4 Og Arken hvilede i den syvende Maaned, paa den syttende Dag i Maaneden, paa Ararats Bjerge.
 Gen 8:5 Og Vandet for hid og did og formindskedes indtil den tiende Maaned; i den tiende Maaned, paa den første Dag i Maaneden, lode Toppene af Bjergene sig til Syne.
 Gen 8:6 Og det hændte sig efter fyrretyve Dage, da oplod Noa Vinduet paa Arken, som han havde gjort.
 Gen 8:7 Og han udlod en Ravn; den fløj frem og tilbage, indtil Vandet borttørredes af Jorden.
@@ -195,7 +195,7 @@ Gen 8:10 Da biede han endnu syv andre Dage og udlod atter en Due af Arken.
 Gen 8:11 Og den Due kom til ham ved Aftens Tid, og se, den havde et afbrudt Olieblad i sin Mund; da fornam Noa, at Vandet var sunket paa Jorden.
 Gen 8:12 Men han biede endnu andre syv Dage og udlod en Due, og den kom ikke ydermere til ham.
 Gen 8:13 Og det skete i det seks Hundrede og første Aar, i den første Maaned, paa den første Dag i Maaneden, da tørredes Vandet fra Jorden; da tog Noa Dækket af Arken og saa sig om, og se, Jordens Overflade tørredes.
-Gen 8:14 Og i den anden Maaned, paa den syr og tyvende Dag i Maaneden, blev Jorden tør.
+Gen 8:14 Og i den anden Maaned, paa den syv og tyvende Dag i Maaneden, blev Jorden tør.
 Gen 8:15 Da talede Gud til Noa og sagde:
 Gen 8:16 Gak ud ad Arken, du og din Hustru og dine Sønner og dine Sønners Hustruer med dig.
 Gen 8:17 Udfør med dig alle Dyr, som ere hos dig af alt Kød, af Fugle og af Kvæg og af alle Kryb, som krybe paa Jorden, og de skulle vrimle paa Jorden og vorde frugtbare og mangfoldige paa Jorden.
@@ -457,7 +457,7 @@ Gen 18:31 Og han sagde: Se nu, jeg har begyndt at tale til Herren, der maatte ma
 Gen 18:32 Og han sagde: Herren blive dog ikke vred, saa vil jeg tale alene denne Gang: der maatte maaske findes ti; og han sagde: Jeg vil ikke ødelægge den for de tis Skyld.
 Gen 18:33 Og Herren gik bort, der han havde udtalt med Abraham, og Abraham vendte om til sit Sted.
 Gen 19:1 Og de to Engle kom til Sodoma om Aftenen; men Lot sad i Sodomas Port, og der Lot saa dem, da stod han op og gik dem i Møde og bøjede Ansigtet til Jorden.
-Gen 19:2 Og lian sagde: Se nu mine Herrer, kommer dog ind i eders Tjeners Hus, og bliver her i Nat, og toer eders Fødder, saa maa I staa aarle op og gaa eders Vej; og de sagde: Nej, men vi ville blive paa Gaden i Nat.
+Gen 19:2 Og han sagde: Se nu mine Herrer, kommer dog ind i eders Tjeners Hus, og bliver her i Nat, og toer eders Fødder, saa maa I staa aarle op og gaa eders Vej; og de sagde: Nej, men vi ville blive paa Gaden i Nat.
 Gen 19:3 Da nødte han dem meget, og de gik ind til ham og kom i hans Hus, og han gjorde dem et Gæstebud og bagede usyrede Brød, og de aade.
 Gen 19:4 Men førend de lagde sig, da omringede Mændene af Staden, Mændene af Sodoma, Huset, baade ung og gammel, det ganske Folk allesteds fra.
 Gen 19:5 Og de kaldte ad Lot og sagde til ham: Hvor ere de Mænd, som kom til dig i Nat? før dem ud til os, at vi maa kende dem.
@@ -823,7 +823,7 @@ Gen 29:26 Og Laban sagde: Det sker ikke saaledes paa vort Sted, at man giver den
 Gen 29:27 Hold dennes Uge ud, saa ville vi ogsaa give dig denne for den Tjeneste, som du skal tjene hos mig endnu syv andre Aar.
 Gen 29:28 Og Jakob gjorde saa og holdt dennes Uge ud; saa gav han ham Rakel, sin Datter, til hans Hustru.
 Gen 29:29 Og Laban gav sin Datter Rakel Bilha, sin Tjenestepige, til Tjenestepige for hende.
-Gen 29:30 Saa gik han og ind til Rakel, og elskede Rakel mere end Lea; og han tjente hos ham endnu syr andre Aar.
+Gen 29:30 Saa gik han og ind til Rakel, og elskede Rakel mere end Lea; og han tjente hos ham endnu syv andre Aar.
 Gen 29:31 Der Herren saa, at Lea var foragtet, da aabnede han hendes Moderliv; men Rakel var ufrugtbar.
 Gen 29:32 Og Lea undfik og fødte en Søn, og hun kaldte hans Navn Ruben; thi hun sagde: Herren har set paa min Elendighed; thi nu skal min Mand elske mig.
 Gen 29:33 Og hun undfik igen og fødte en Søn og sagde: Fordi Herren har hørt, at jeg var forsmaaet, da har han givet mig ogsaa denne; saa kaldte hun hans Navn Simeon.
@@ -3136,7 +3136,7 @@ Lev 14:23 Og han skal bringe dem frem paa den ottende Dag af sin Renselse til Pr
 Lev 14:24 Og Præsten skal tage Skyldofrets Lam og den Log Olie, og Præsten skal røre dem med en Rørelse for Herrens Ansigt.
 Lev 14:25 Og han skal slagte Skyldofrets Lam, og Præsten skal tage af Skyldofrets Blod og komme paa den højre Ørelæp af ham, som lader sig rense, og paa hans højre Tommelfinger og paa hans højre Tommeltaa.
 Lev 14:26 Og Præsten skal øse af Olien i sin venstre Haand.
-Lev 14:27 Og Præsten skal stænke med sin højre Finger af Olien, som er i hans venstre Haand, syr Gange for Herrens Ansigt.
+Lev 14:27 Og Præsten skal stænke med sin højre Finger af Olien, som er i hans venstre Haand, syv Gange for Herrens Ansigt.
 Lev 14:28 Og Præsten skal komme af Olien, som er i hans Haand, paa den højre Ørelæp af ham, som lader sig rense, og paa hans højre Tommelfinger og paa hans højre Tommeltaa, over Skyldofrets Blods Sted.
 Lev 14:29 Men det, som er blevet tilovers af Olien, som er i Præstens Haand, skal han komme paa dens Hoved, som lader sig rense, til at gøre Forligelse for ham, for Herrens Ansigt.
 Lev 14:30 Og han skal lave den ene af de Turtelduer eller af de Dueunger, af det, hans Haand har formaaet,
@@ -9638,7 +9638,7 @@ Rut 4:22 og Obed avlede Isai, og Isai avlede David.
 2Ki 4:32 Og der Elisa kom i Huset, se, da var den døde Dreng lagt paa hans Seng.
 2Ki 4:33 Og han gik ind og lukkede Døren til for dem begge og bad til Herren.
 2Ki 4:34 Og han steg op og lagde sig over Barnet og lagde sin Mund paa dets Mund og sine Øjne paa dets Øjne og sine Hænder paa dets Hæn der og bredte sig ud over det, saa at Barnets Legeme blev varmt.
-2Ki 4:35 Og han trak sig tilbage og gik i Huset, en Gang hid og en Gang did, og steg op og bredte sig ud over ham, da gispede Drengen indtil syr Gange, og Drengen oplod sine Øjne.
+2Ki 4:35 Og han trak sig tilbage og gik i Huset, en Gang hid og en Gang did, og steg op og bredte sig ud over ham, da gispede Drengen indtil syv Gange, og Drengen oplod sine Øjne.
 2Ki 4:36 Og han kaldte ad Gihesi og sagde: Kald ad den sunamitiske; og der han kaldte ad hende, da kom hun til ham, og han sagde: Tag din Søn!
 2Ki 4:37 Da kom hun og faldt ned for hans Fødder og bøjede sig ned til Jorden, og hun tog sin Søn og gik ud.
 2Ki 4:38 Og Elisa kom tilbage til Gilgal, og der var Hunger i Landet, og Profeternes Børn sade for hans Ansigt; og han sagde til sin Dreng: Sæt en stor Gryde til og kog en Ret til Profeternes Børn!
@@ -21366,7 +21366,7 @@ Eze 33:17 Dog sige dit Folks Børn: Herrens Vej er ikke rigtig; men det er dem se
 Eze 33:18 Naar den retfærdige vender om fra sin Retfærdighed og gør Uret, da skal han dø derfor.
 Eze 33:19 Og naar den ugudelige vender om fra sin Ugudelighed og gør Ret og Retfærdighed, da skal han leve derved.
 Eze 33:20 Og dog sige I: Herrens Vej er ikke rigtig; jeg skal dømme eder, Israels Hus! hver efter hans Veje.
-Eze 33:21 Og det skete i det tolvte Aar, i den tiende Maaned, paa deri femte Dag i Maaneden efter vor Bortførelse, da kom een til mig, som var undkommen fra Jerusalem, og sagde: Staden er indtagen.
+Eze 33:21 Og det skete i det tolvte Aar, i den tiende Maaned, paa den femte Dag i Maaneden efter vor Bortførelse, da kom een til mig, som var undkommen fra Jerusalem, og sagde: Staden er indtagen.
 Eze 33:22 Og Herrens Haand var kommen over mig om Aftenen, før den undslupne kom, og han oplod min Mund, inden denne kom til mig om Morgenen; saa oplodes min Mund, og jeg var ikke ydermere stum.
 Eze 33:23 Og Herrens Ord kom til mig saaledes:
 Eze 33:24 Du Menneskesøn! de, som bo paa disse øde Steder i Israels Land, sige saaledes: Abraham var een og ejede Landet, og vi ere mange, os er Landet givet til Ejendom.
