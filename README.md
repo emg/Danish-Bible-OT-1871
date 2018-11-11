@@ -38,6 +38,11 @@ Send corrections and comments to ulrikp-at-scripturesys-dot-com
 
 Or send Ulrik a pull request via Github.
 
+Special thanks to Steen Højgaard for vigorous proof-reading of
+Genesis, Exodus, some of Psalms, Isaiah, Jeremiah, Lamentations,
+Ezekiel 1-15, Hoseah, Joel, Amos, Obadiah, Jonah, Micah, Haggaj,
+Nahum, Habbakkuk, Zephaniah, Zechariah, and Malachi.
+
 
 ## Status?
 
