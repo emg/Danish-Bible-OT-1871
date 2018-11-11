@@ -14,6 +14,20 @@ Public Domain. Copy freely.
 
 OCR scanning from a hardcopy Bible with Roman script (not Fraktur).
 
+The title page says:
+
+```
+BIBELEN
+DEN GAMLE OG DEN NYE PAGTS
+HELLIGE SKRIFTER
+SAMT DE APOKRYFISKE BØGER
+
+KJØBENHAVN
+BIBELSELSKABET FOR DANMARK
+LEHMANN & STAGES BOGHANDEL
+1919
+```
+
 
 ##Whodunnit?
 
@@ -36,4 +50,4 @@ Praise the LORD.
 Enjoy!
 
 Ulrik Sandborg-Petersen
-Last update: 2015-12-20
+Last update of this README: 2018-11-11
