@@ -55,4 +55,4 @@ Enjoy!
 
 Ulrik Sandborg-Petersen
 
-Last update of this README: 2018-11-11
+Last update of this README: 2019-03-16
