@@ -2025,7 +2025,7 @@ Exo 18:24 Og Mose lød sin Svigerfaders Røst og gjorde alt det, som han sagde.
 Exo 18:25 Og Mose udvalgte duelige Mænd af al Israel og satte dem til Høvedsmænd over Folket, Høvedsmænd over tusinde, Høvedsmænd over hundrede, Høvedsmænd over halvtredsindstyve og Høvedsmænd over ti.
 Exo 18:26 Og de dømte Folket til enhver Tid; hver svar Sag skulde de føre for Mose, og hver liden Sag skulde de selv dømme.
 Exo 18:27 Og Mose lod sin Svigerfader fare, og denne gik til sit Land.
-Exo 19:1 Iden tredje Maaned, efter at Israels Børn vare udgangne af Ægyptens Land, paa den Dag kom de til Sinai Ørk.
+Exo 19:1 I den tredje Maaned, efter at Israels Børn vare udgangne af Ægyptens Land, paa den Dag kom de til Sinai Ørk.
 Exo 19:2 Thi de droge fra Refidim og kom til Sinai Ørk og lejrede sig i Ørken, og der lejrede Israel sig lige for Bjerget.
 Exo 19:3 Og Mose steg op til Gud, og Herren raabte til ham fra Bjerget og sagde: Saa skal du sige til Jakobs Hus og kundgøre Israels Børn:
 Exo 19:4 I have set, hvad jeg gjorde ved Ægypterne, og jeg bar eder paa Ørnevinger og lod eder komme til mig.
@@ -7141,7 +7141,7 @@ Rut 1:12 Vender tilbage, mine Døtre! gaar bort, thi jeg er for gammel til at faa
 Rut 1:13 mon I skulde vente paa dem, indtil de bleve store? mon I skulde opholdes derefter, saa at I ikke skulde faa Mænd? Nej, mine Døtre! thi det er mig saare bittert, mere end eder, at Herrens Haand er udgangen over mig.
 Rut 1:14 Da opløftede de deres Røst og græd ydermere; og Orpa kyssede sin Mands Moder, men Ruth hængte ved hende.
 Rut 1:15 Da sagde hun: Se, din Svigerinde er vendt tilbage til sit Folk og til sin Gud; vend tilbage efter din Svigerinde!
-Rut 1:16 Og Ruth sagde: Vær mig ikke imod, at jeg skulde forlade dig og vende tilbage, fra dig; thi hvor du gaar hen, der vil jeg gaa hen, og hvor du bliver om Natten, der vil jeg blive om Natten; dit Folk er mit Folk, og din Gud er min Gud.
+Rut 1:16 Og Ruth sagde: Vær mig ikke imod, at jeg skulde forlade dig og vende tilbage fra dig; thi hvor du gaar hen, der vil jeg gaa hen, og hvor du bliver om Natten, der vil jeg blive om Natten; dit Folk er mit Folk, og din Gud er min Gud.
 Rut 1:17 Hvor du vil dø, der vil jeg dø, og der vil jeg begraves; Herren gøre nu og fremdeles saa og saa imod mig, saa vist som Døden alene skal skille imellem dig og imellem mig.
 Rut 1:18 Og der hun saa, at hun havde fast foresat sig at gaa med hende, da lod hun af at tale til hende derom.
 Rut 1:19 Og de gik begge, indtil de kom til Bethlehem; og det skete, der de kom til Bethlehem, da kom den ganske Stad i Bevægelse over dem, og de sagde: Er dette Noomi?
@@ -12794,7 +12794,7 @@ Est 5:11 Og Haman fortalte dem om sin Rigdoms Herlighed og om sine mange Sønner 
 Est 5:12 Og Haman sagde: Ogsaa Dronning Esther lod ingen komme med Kongen til det Gæstebud, som hun havde beredet, uden mig; og jeg er ogsaa indbuden af hende til i Morgen med Kongen.
 Est 5:13 Men alt dette er mig ikke nok, al den Tid jeg ser Jøden Mardokaj sidde i Kongens Port.
 Est 5:14 Da sagde Seres, hans Hustru, og alle hans Venner til ham: Lad dem lave et Træ til, halvtredsindstyve Alen højt, og sig i Morgen til Kongen, at man skal hænge Mardokaj derpaa, og gaa saa glad til Gæstebudet med Kongen; og dette Ord syntes Haman vel om, og han lod Træet lave til.
-Est 6:1 Iden samme Nat kunde Kongen ikke sove, og han bød at hente Krønikebogen om de daglige Begivenheder; og de bleve læste for Kongen.
+Est 6:1 I den samme Nat kunde Kongen ikke sove, og han bød at hente Krønikebogen om de daglige Begivenheder; og de bleve læste for Kongen.
 Est 6:2 Og der fandtes skrevet, at Mardokaj havde gjort Angivelse om Bigtana og Theres, to af Kongens Kammertjenere, af dem, som holdt Vagt ved Dørtærskelen, og som havde søgt at lægge Haand paa Kong Ahasverus.
 Est 6:3 Og Kongen sagde: Hvad Ære og Ophøjelse er der sket Mardokaj for det? Da sagde Kongens Folk, som tjente ham: Ham er ikke sket nogen Ting.
 Est 6:4 Da sagde Kongen: Hvo er i Forgaarden? Og Haman var kommen i Kongens Hus's yderste Forgaard for at tale til Kongen om at hænge Mardokaj paa det Træ, som han havde ladet berede for ham.
@@ -14033,7 +14033,7 @@ Psa 9:2 Jeg vil takke Herren af mit ganske Hjerte, jeg vil fortælle alle dine un
 Psa 9:3 Jeg vil glæde og fryde mig i dig, jeg vil lovsynge dit Navn, du Højeste!
 Psa 9:4 Naar mine Fjender vige tilbage, da skulle de støde an og omkomme for dig.
 Psa 9:5 Thi du har udført min Ret og min Sag; du har sat dig paa Tronen, du, som dømmer Retfærdighed.
-Psa 9:6 Du truede Hedningerne, du tilintetgjorde den ugudelige, du, udslettede deres Navn evindelig og altid.
+Psa 9:6 Du truede Hedningerne, du tilintetgjorde den ugudelige, du udslettede deres Navn evindelig og altid.
 Psa 9:7 Fjenderne ere ikke mere, de ere ødelagte evindelig; og du har nedbrudt Stæderne, deres Ihukommelse er forsvunden med dem.
 Psa 9:8 Men Herren skal blive evindelig; han har beredt sin Trone til Dom.
 Psa 9:9 Og han skal dømme Verden med Retfærdighed; han skal afsige Dom over Folkene med Retvished.
@@ -14041,7 +14041,7 @@ Psa 9:10 Og Herren være den ringe en Ophøjelse, ja en Ophøjelse i Nødens Tider!
 Psa 9:11 Og de, som kendte dit Navn, skulle forlade sig paa dig; thi du har ikke forladt dem, som søge dig, Herre!
 Psa 9:12 Lovsynger Herren, som bor paa Zion, kundgører iblandt Folkene hans Gerninger!
 Psa 9:13 Thi han, som hævner Blod, kommer dem i Hu, han har ikke glemt de elendiges Skrig.
-Psa 9:14 Herre, vær mig naadig, se, kvad jeg maa taale af dem, som hade mig, du som ophøjer mig fra Dødens Porte,
+Psa 9:14 Herre, vær mig naadig, se, hvad jeg maa taale af dem, som hade mig, du som ophøjer mig fra Dødens Porte,
 Psa 9:15 paa det jeg kan fortælle al din Lov i Zions Datters Porte, at jeg maa fryde mig i din Frelse.
 Psa 9:16 Hedningerne ere sunkne i Graven, som de gjorde; deres Fod er greben i Garnet, som de skjulte.
 Psa 9:17 Herren er bleven kendt, han har gjort Ret; den ugudelige er besnæret i sine Hænders Gerning. Higgajon, Sela!
@@ -14064,7 +14064,7 @@ Psa 10:12 Staa op, Herre! Gud, opløft din Haand, glem ikke de elendige!
 Psa 10:13 Hvorfor skal en ugudelig foragte Gud? han siger i sit Hjerte: Du hjemsøger ikke.
 Psa 10:14 Du ser det! thi du skuer Møje og Fortræd, saa at de kunne lægges i din Haand; den svage forlader sig paa dig, du har været den faderløses Hjælper.
 Psa 10:15 Sønderbryd den ugudeliges Arm; og hjemsøg den ondes Ugudelighed, indtil du ikke finder den mere.
-Psa 10:16 Herren er Konge evindelig, og altid; Hedningerne omkomme af hans Land.
+Psa 10:16 Herren er Konge evindelig og altid; Hedningerne omkomme af hans Land.
 Psa 10:17 Du, Herre! hører de elendiges Begæring, du styrker deres Hjerte, du lader dit Øre mærke derpaa
 Psa 10:18 for at skaffe den faderløse og ringe Ret; ej længer skal et Menneske, der er af Jorden, vedblive at volde Skræk.
 Psa 11:1 Til Sangmesteren; af David. Jeg haaber paa Herren; hvorledes kunne I da sige til min Sjæl: Fly til eders Bjerg som en Fugl?
@@ -14261,7 +14261,7 @@ Psa 24:3 Hvo skal gaa op paa Herrens Bjerg? hvo skal staa paa hans hellige Sted?
 Psa 24:4 Den, som har uskyldige Hænder og er ren af Hjertet; den, som ikke har sat sin Hu til Løgn og ej svoret svigeligt.
 Psa 24:5 Han skal annamme Velsignelse fra Herren og Retfærdighed fra sin Frelses Gud.
 Psa 24:6 Dette er den Slægt, som spørger efter ham, de, som søge dit Ansigt, Jakobs Børn. Sela.
-Psa 24:7 I Porte, opløfter eders Hoveder, ja, opløfter eden, I evige Døre, at Ærens Konge kan drage ind!
+Psa 24:7 I Porte, opløfter eders Hoveder, ja, opløfter eder, I evige Døre, at Ærens Konge kan drage ind!
 Psa 24:8 Hvo er denne Ærens Konge? Herren, stærk og mægtig, Herren, mægtig i Strid.
 Psa 24:9 I Porte, opløfter eders Hoveder, ja opløfter eder, I evige Døre, at Ærens Konge kan drage ind!
 Psa 24:10 Hvo er han, den Ærens Konge? Herren Zebaoth, han er Ærens Konge. Sela.
@@ -14423,7 +14423,7 @@ Psa 34:16 Herrens Øjne ere vendte til de retfærdige og hans Øren til deres Raab.
 Psa 34:17 Herrens Ansigt er imod dem, som gøre ondt, for at udrydde deres Ihukommelse af Jorden.
 Psa 34:18 Hine raabte, og Herren hørte, og han friede dem af alle deres Angester.
 Psa 34:19 Herren er nær hos dem, som have et sønderbrudt Hjerte, og han vil frelse dem, som have en sønderknust Aand.
-Psa 34:20 Mange Genvordigheder vederfares den letfærdige; men Herren skal udfri ham af dem alle sammen,
+Psa 34:20 Mange Genvordigheder vederfares den retfærdige; men Herren skal udfri ham af dem alle sammen,
 Psa 34:21 Han bevarer alle hans Ben; ikke et af dem skal blive sønderbrudt.
 Psa 34:22 Ulykken skal dræbe den ugudelige, og de, som hade den retfærdige, skulle dømmes skyldige.
 Psa 34:23 Herren forløser sine Tjeneres Sjæl; og alle de, som forlade sig paa ham, skulle ikke dømmes skyldige.
@@ -14671,7 +14671,7 @@ Psa 48:7 Bævelse betog dem der, Angest som en Kvindes, der føder.
 Psa 48:8 Ved Østenvejr sønderbryder du Tharsis's Skibe.
 Psa 48:9 Ligesom vi havde hørt, saaledes saa vi det i den Herre Zebaoths Stad, i vor Guds Stad; Gud befæster den indtil evig Tid. Sela.
 Psa 48:10 O Gud! vi tænke paa din Miskundhed midt i dit Tempel.
-Psa 48:11 0 Gud! som dit Navn er, saa er din Pris indtil Jordens Ender; din højre Haand er fuld af Retfærdighed.
+Psa 48:11 O Gud! som dit Navn er, saa er din Pris indtil Jordens Ender; din højre Haand er fuld af Retfærdighed.
 Psa 48:12 Zions Bjerg glæder sig, Judas Døtre fryde sig for dine Dommes Skyld.
 Psa 48:13 Gaar omkring Zion, rundt omkring den, tæller dens Taarne!
 Psa 48:14 Lægger Mærke til dens Mur, betragter nøje dens Paladser, at I kunne fortælle det for den Slægt, som kommer.
@@ -14723,7 +14723,7 @@ Psa 50:23 Den, som ofrer Taksigelse, han ærer mig, og den, som agter paa Vejen, 
 Psa 51:1 Til Sangmesteren; en Psalme af David,
 Psa 51:2 der Profeten Nathan var kommen til ham, efter at han var gaaet ind til Bathseba.
 Psa 51:3 Gud! vær mig naadig efter din Miskundhed, udslet mine Overtrædelser efter din store Barmhjertighed.
-Psa 51:4 To mig vel af min Misgerning og rens mig Ira min Synd;
+Psa 51:4 To mig vel af min Misgerning og rens mig fra min Synd;
 Psa 51:5 thi mine Overtrædelser kender jeg, og min Synd er altid for mig.
 Psa 51:6 Imod dig, imod dig alene har jeg syndet og gjort det onde for dine Øjne, paa det du skal være retfærdig, naar du taler, være ren, naar du dømmer.
 Psa 51:7 Se, jeg er født i Skyld, og min Moder har undfanget mig i Synd.
@@ -14825,7 +14825,7 @@ Psa 58:4 De ugudelige ere affaldne fra Moders Liv af; de, som tale Løgn, fore vi
 Psa 58:5 De have Gift lig en Slanges Gift; de ere som en døv Øgle, der stopper sit Øre,
 Psa 58:6 at den ikke skal høre paa deres Røst, som besværge, paa Manerens, som er udlært til at mane.
 Psa 58:7 Gud! bryd deres Tænder i deres Mund; Herre! knus de unge Løvers Kindtænder!
-Psa 58:8 Lad dem henfly de som Vand, der løber bort; naar en skyder med sine Pile, da være disse som sløvede!
+Psa 58:8 Lad dem henflyde som Vand, der løber bort; naar en skyder med sine Pile, da være disse som sløvede!
 Psa 58:9 Lad dem være som en Snegl, der opløses, idet den gaar, som en Kvindes utidige Foster, som de, der ikke have set Solen.
 Psa 58:10 Førend eders Gryder kunne fornemme Ilden af Tornebusken, skal Stormen hvirvle det bort, hvad enten det er frisk eller i Brand.
 Psa 58:11 Den retfærdige skal glæde sig, fordi han har set Hævnen; han skal to sine Trin i den ugudeliges Blod.
@@ -14936,7 +14936,7 @@ Psa 66:12 Du lod Mennesker fare over vort Hoved; vi ere komne i Ild og i Vand, m
 Psa 66:13 Jeg vil gaa ind i dit Hus med Brændofre, jeg vil betale dig mine Løfter,
 Psa 66:14 dem, som mine Læber oplode sig med, og min Mund talte, da jeg var i Angest.
 Psa 66:15 Jeg vil ofre dig Brændoffer af fedt Kvæg og Duften af Vædre; jeg vil tillave Øksne og Bukke. Sela.
-Psa 66:16 Kommer hid, hører til, alle 1, som frygte Gud, saa vil jeg fortælle, hvad han har gjort ved min Sjæl.
+Psa 66:16 Kommer hid, hører til, alle I, som frygte Gud, saa vil jeg fortælle, hvad han har gjort ved min Sjæl.
 Psa 66:17 Til ham raabte jeg med min Mund, og hans Pris kom paa min Tunge.
 Psa 66:18 Dersom jeg havde set Uret i mit Hjerte, da vilde Herren ikke have hørt mig.
 Psa 66:19 Dog har Gud hørt; han gav Agt paa min Bøns Røst.
@@ -14960,7 +14960,7 @@ Psa 68:8 Gud! da du drog ud foran dit Folk, da du skred frem gennem Ørkenen (Sel
 Psa 68:9 Da bævede Jorden, og Himlene dryppede for Guds Ansigt, hint Sinaj! for Guds, Israels Guds Ansigt.
 Psa 68:10 En Regn af Gaver lod du strømme ned, o Gud! din Arv, som var træt, styrkede du.
 Psa 68:11 Din Hjord bosatte sig i Landet; du beredte det, Gud! for den elendige ved din Godhed.
-Psa 68:12 Herren lader. Ordet udgaa; de Kvinder, som bringe glad Budskab, ere en stor Hær.
+Psa 68:12 Herren lader Ordet udgaa; de Kvinder, som bringe glad Budskab, ere en stor Hær.
 Psa 68:13 Hærskarernes Konger fly, de fly; og hun, som bor i Huset, uddeler Bytte.
 Psa 68:14 Naar I ligge mellem Foldene, er det som en Dues Vinger, skjulte med Sølv, og hvis Vingefjedre ere indsprængte med Guldets gyldengrønne Glans .
 Psa 68:15 Naar den Almægtige spreder Konger derudi, da falder der Sne paa Zalmon.
@@ -15000,7 +15000,7 @@ Psa 69:12 Og jeg brugte Sæk til mit Klædebon, og jeg blev dem til et Ordsprog.
 Psa 69:13 De, som sidde i Porten, snakke om mig, og de, som drikke stærk Drik, synge Viser om mig.
 Psa 69:14 Men jeg henflyr med min Bøn til dig, Herre! i Naadens Tid, o Gud! efter din megen Miskundhed: Bønhør mig for din Frelses Sandheds Skyld!
 Psa 69:15 Frels mig af Dyndet, at jeg ikke synker; lad mig frelses fra mine Avindsmænd og fra Vandenes Dyb!
-Psa 69:16 Lad Vandstrømmene ikke overskylle mig, ej heller Dybet sluge mig; lad og I ikke Hulen lukke sin Mund over mig!
+Psa 69:16 Lad Vandstrømmene ikke overskylle mig, ej heller Dybet sluge mig; lad og ikke Hulen lukke sin Mund over mig!
 Psa 69:17 Bønhør mig, Herre! thi din Miskundhed er god; vend dit Ansigt til mig efter din store Barmhjertighed!
 Psa 69:18 Og skjul ikke dit Ansigt for din Tjener; thi jeg er angest, skynd dig, bønhør mig!
 Psa 69:19 Hold dig nær til min Sjæl, genløs den, udfri mig for mine Fjenders Skyld!
@@ -15125,7 +15125,7 @@ Psa 74:22 Gud! gør dig rede, udfør din Sag; kom din Forhaanelse i Hu, som dig sk
 Psa 74:23 Glem ikke dine Fjenders Røst, dine Modstanderes Bulder, som stiger altid op.
 Psa 75:1 Til Sangmesteren; »fordærv ikke«; en Psalme af Asaf, en Sang.
 Psa 75:2 Vi takke dig, Gud! vi takke, og nær er dit Navn; man fortæller dine underfulde Gerninger.
-Psa 75:3 Thi »jeg vil gribe den bestemte Tid, jeg vil dømme med Retfærdighed,
+Psa 75:3 Thi »jeg vil gribe den bestemte Tid, jeg vil dømme med Retfærdighed.
 Psa 75:4 Hensmeltede end Jorden og alle dens Beboere, jeg har dog sat dens Piller fast«. Sela.
 Psa 75:5 Jeg sagde til Daarerne: Værer ikke Daarer! og til de ugudelige: Opløfter ikke Horn!
 Psa 75:6 Opløfter ikke eders Horn imod det høje, taler ej med knejsende Nakke!
@@ -15220,7 +15220,7 @@ Psa 78:49 han sendte sin grumme Vrede paa dem, Harme og Fortørnelse og Angest, e
 Psa 78:50 han banede Vej for sin Vrede, han sparede ikke deres Sjæl fra Døden, og han overantvordede deres Liv til Pesten;
 Psa 78:51 og han slog alle førstefødte i Ægypten, Kraftens Førstegrøde i Kams Telte;
 Psa 78:52 men sit Folk lod han drage ud som Faareflokken og førte dem i Ørken som Hjorden;
-Psa 78:53 og han ledede dem tryggelig, at de ikke flygtede; men Havet skjulte deres Fjender.
+Psa 78:53 og han ledede dem tryggelig, at de ikke frygtede; men Havet skjulte deres Fjender.
 Psa 78:54 Og han førte dem til sin Helligheds Landemærke, til dette Bjerg, som hans højre Haand havde forhvervet;
 Psa 78:55 og han uddrev Hedningerne for deres Ansigt og lod disses Land tilfalde dem som Arvedel; og han lod Israels Stammer bo i deres Telte.
 Psa 78:56 Men de fristede Gud, den Højeste, og vare genstridige imod ham og agtede ikke paa hans Vidnesbyrd.
@@ -15270,7 +15270,7 @@ Psa 80:14 Svinet fra Skoven roder om den, og vilde Dyr paa Marken afæde den.
 Psa 80:15 Gud Zebaoth! vend dog om; sku ned af Himmelen og se til og besøg denne Vinstok
 Psa 80:16 og den Pode, som din højre Haand plantede, og den Søn, som du gjorde stærk for dig.
 Psa 80:17 Den er brændt med Ild, den er omhugget; de omkomme for dit Ansigts Trusel.
-Psa 80:18 Lad din Haand være over, din højre Haands Mand, over den Menneskens Søn, som du gjorde stærk for dig.
+Psa 80:18 Lad din Haand være over din højre Haands Mand, over den Menneskens Søn, som du gjorde stærk for dig.
 Psa 80:19 Saa ville vi ikke vige fra dig; lad du os leve, og vi ville paakalde dit Navn.
 Psa 80:20 Herre, Gud Zebaoth; hjælp os op igen, lad dit Ansigt lyse, saa blive vi frelste.
 Psa 81:1 Til Sangmesteren; til Githith; af Asaf.
@@ -15338,7 +15338,7 @@ Psa 85:5 Hjælp os op igen, vor Frelses Gud! og tilintetgør din Fortørnelse imod 
 Psa 85:6 Vil du evindelig være vred paa os? vil du udstrække din Vrede fra Slægt til Slægt?
 Psa 85:7 Vil du ikke gøre os levende igen, at dit Folk maa glæde sig i dig?
 Psa 85:8 Herre! lad os se din Miskundhed og giv os din Frelse.
-Psa 85:9 Jeg vil høre, hvad Gud Herren tater; thi han skal tale Fred til sit Folk og til sine hellige, kun at de ikke vende tilbage til Daarlighed.
+Psa 85:9 Jeg vil høre, hvad Gud Herren taler; thi han skal tale Fred til sit Folk og til sine hellige, kun at de ikke vende tilbage til Daarlighed.
 Psa 85:10 Ja, hans Frelse er nær hos dem, som ham frygte, at Herlighed maa bo i vort Land.
 Psa 85:11 Miskundhed og Sandhed møde hinanden; Retfærdighed og Fred kysse hinanden.
 Psa 85:12 Sandhed vokser op af Jorden, og Retfærdighed ser ned af Himmelen.
@@ -15398,7 +15398,7 @@ Psa 89:8 en Gud saare frygtelig i de helliges hemmelige Raad og forfærdelig over
 Psa 89:9 Herre, Gud Zebaoth! hvo er som du stormægtig, o Herre? og din Sandhed er trindt omkring dig.
 Psa 89:10 Du hersker over det hovmodige Hav; naar dets Bølger rejse sig, da bringer du dem til at lægge sig.
 Psa 89:11 Du knuste Rahab, saa den blev som den ihjelslagne, du bortspredte dine Fjender med din stærke Arm.
-Psa 89:12 Dig tilhøre Himlene, dig tilhører ogsaa Jorden, du har grundfæstet Jorderige og hvad deri er.
+Psa 89:12 Dig tilhøre Himlene, dig tilhører ogsaa Jorden, du har grundfæstet Jorderige og, hvad deri er.
 Psa 89:13 Du skabte Norden og Sønden, Thabor og Hermon fryde sig i dit Navn.
 Psa 89:14 Du har en Arm med Styrke, din Haand er stærk, din højre Haand er ophøjet.
 Psa 89:15 Retfærdighed og Dom ere din Trones Befæstning, Miskundhed og Sandhed gaa frem for dit Ansigt.
@@ -15443,7 +15443,7 @@ Psa 89:53 Lovet være Herren evindelig! Amen, ja, amen.
 Psa 90:1 Herre! du har været vor Bolig fra Slægt til Slægt.
 Psa 90:2 Før Bjergene bleve til, og du dannede Jorden og Jorderige, fra Evighed til Evighed er du Gud.
 Psa 90:3 Du vender det med et Menneske, at han bliver knust; og du siger: Kommer igen, I Menneskens Børn!
-Psa 90:4 Thi tusinde Aar ere for dine Øjne som den Dag i Gaar, naar den er forbigangen; og som en Nattevagt.
+Psa 90:4 Thi tusinde Aar ere for dine Øjne som den Dag i Gaar, naar den er forbigangen, og som en Nattevagt.
 Psa 90:5 Du bortskyller dem, de blive som en Søvn, om Morgenen ere de som Græs, der gaar bort.
 Psa 90:6 Om Morgenen blomstrer det, og det gaar bort, om Aftenen afhugges det og tørres.
 Psa 90:7 Thi vi fortæres i din Vrede, og vi forfærdes i din Harme.
@@ -15595,7 +15595,7 @@ Psa 102:8 Jeg vaager og er bleven som en enlig Spurv paa Taget.
 Psa 102:9 Mine Fjender have haanet mig den ganske Dag, de, som rase imod mig, sværge ved mig.
 Psa 102:10 Thi jeg har tæret Aske som Brød og blandet min Drik med Graad
 Psa 102:11 for din Vredens og din Fortørnelses Skyld; thi du løftede mig op og kastede mig bort.
-Psa 102:12 Mine Dage are som en Skygge, der hælder, og jeg tørres som en Urt.
+Psa 102:12 Mine Dage ere som en Skygge, der hælder, og jeg tørres som en Urt.
 Psa 102:13 Men du, Herre! bliver evindelig, og din Ihukommelse fra Slægt til Slægt.
 Psa 102:14 Du vil gøre dig rede, du vil forbarme dig over Zion; thi det er paa Tide, at du er den naadig; thi den bestemte Tid er kommen.
 Psa 102:15 Thi dine Tjenere hænge med Behag ved dens Stene, og de have Medynk med dens Støv.
@@ -15743,7 +15743,7 @@ Psa 106:25 Men de knurrede i deres Telte, de hørte ikke paa Herrens Røst.
 Psa 106:26 Og han svor dem med oprakt Haand, at han vilde lade dem falde i Ørken,
 Psa 106:27 og at han vilde lade deres Afkom falde iblandt Hedningerne og bortstrø dem i Landene.
 Psa 106:28 Og de bandt sig til Baal-Peor og aade af Ofrene til de døde Afguder.
-Psa 106:29 Og de opirrede ham med deres Idrætter, saa at en Plage brød løs paa dem,
+Psa 106:29 Og de opirrede ham med deres Idrætter, saa at en Plage brød løs paa dem.
 Psa 106:30 Da stod Pinehas frem og holdt Dom, og Plagen hørte op.
 Psa 106:31 Og det blev regnet ham til Retfærdighed fra Slægt til Slægt evindelig.
 Psa 106:32 De fortørnede ham ogsaa ved Meribas Vand, og det gik Mose ilde for deres Skyld.
@@ -15816,7 +15816,7 @@ Psa 108:7 Paa det dine elskelige maa udfries, saa frels med din højre Haand og b
 Psa 108:8 Gud har talt i sin Helligdom, jeg vil fryde mig; jeg vil uddele Sikem og opmaale Sukots Dal.
 Psa 108:9 Mig hører Gilead til, mig hører Manasse til, og Efraim er mit Hoveds Værn, Juda er min Herskerstav.
 Psa 108:10 Moab er mit Vadskefad; jeg vil kaste min Sko til Edom; bryd ud i Jubel over mig, du Filisterland!
-Psa 108:11 Hvo vil føre mig tilden faste Stad? hvo har ledet mig til Edom?
+Psa 108:11 Hvo vil føre mig til den faste Stad? hvo har ledet mig til Edom?
 Psa 108:12 Mon ikke du, Gud, som har forkastet os? og vil du, Gud, ikke uddrage med vore Hære?
 Psa 108:13 Fly os Hjælp af Nød; thi Menneskers Hjælp er Forfængelighed.
 Psa 108:14 Ved Gud ville vi vinde Kraft; og han skal nedtræde vore Fjender.
@@ -15826,7 +15826,7 @@ Psa 109:3 og de have omringet mig med hadefulde Ord og stridt imod mig uden Aars
 Psa 109:4 Til Løn for min Kærlighed staa de mig imod, men jeg er stedse i Bøn.
 Psa 109:5 Og de beviste mig ondt for godt, og Had for min Kærlighed.
 Psa 109:6 Sæt en ugudelig over ham og lad en Anklager staa ved hans højre Haand!
-Psa 109:7 Naar han dømmes, da lad ham gaa ud som skyldig, og lad hans Bøn blive tir Synd!
+Psa 109:7 Naar han dømmes, da lad ham gaa ud som skyldig, og lad hans Bøn blive til Synd!
 Psa 109:8 Hans Dage vorde faa, en anden annamme hans Embede!
 Psa 109:9 Hans Børn vorde faderløse og hans Hustru Enke!
 Psa 109:10 Og lad hans Børn vanke hid og did og tigge, og lad dem fra deres øde Hjem søge om Føde!
@@ -16233,7 +16233,7 @@ Psa 132:14 »Den er min Hvile altid, her vil jeg bo; thi jeg har begæret den.
 Psa 132:15 Jeg vil velsigne Spisen der, jeg vil mætte de fattige der med Brød.
 Psa 132:16 Og jeg vil klæde dens Præster med Salighed, og dens hellige skulle synge med Fryd.
 Psa 132:17 Der vil jeg lade et Horn opvokse for David; jeg har beredt en Lampe for min Salvede.
-Psa 132:18 Hans Fjender vil jeg klæde i Skam, men paa ham skal hans Krone blomstre.
+Psa 132:18 Hans Fjender vil jeg klæde i Skam, men paa ham skal hans Krone blomstre.”
 Psa 133:1 Se, hvor godt og hvor lifligt er det, at Brødre ogsaa bo tilsammen,
 Psa 133:2 som den gode Olie paa Hovedet, hvilken nedflyder paa Skægget, Arons Skæg, der gaar ned over Sømmen af hans Klædebon;
 Psa 133:3 som Hermons Dug, der falder ned over Zions Bjerge; thi der har Herren beskikket Velsignelsen, Livet indtil evig Tid.
@@ -16275,7 +16275,7 @@ Psa 136:11 og førte Israel ud af deres Midte; thi hans Miskundhed varer evindeli
 Psa 136:12 med en stærk Haand og en udrakt Arm; thi hans Miskundhed varer evindelig;
 Psa 136:13 ham, som kløvede det røde Hav igennem; thi hans Miskundhed varer evindelig;
 Psa 136:14 og lod Israel gaa midt igennem det; thi hans Miskundhed varer evindelig;
-Psa 136:15 og udstødte Farao og hans Hær i det røde, Hav; thi hans Miskundhed varer evindelig;
+Psa 136:15 og udstødte Farao og hans Hær i det røde Hav; thi hans Miskundhed varer evindelig;
 Psa 136:16 ham, som førte sit Folk igennem Ørken; thi hans Miskundhed varer evindelig;
 Psa 136:17 ham, som slog store Konger; thi hans Miskundhed varer evindelig;
 Psa 136:18 og fældede mægtige Konger; thi hans Miskundhed varer evindelig;
@@ -16391,7 +16391,7 @@ Psa 145:1 Jeg vil ophøje dig, min Gud, du som er Kongen! og love dit Navn evinde
 Psa 145:2 Hver Dag vil jeg love dig og prise dit Navn evindelig og altid.
 Psa 145:3 Herren er stor og saare priselig, og hans Magt er uransagelig.
 Psa 145:4 En Slægt skal berømme for den anden dine Gerninger, og de skulle forkynde din Vælde.
-Psa 145:5 Jeg vil betænke din Majestæts herlige Ære og dine underfalde Gerninger.
+Psa 145:5 Jeg vil betænke din Majestæts herlige Ære og dine underfulde Gerninger.
 Psa 145:6 Og der skal tales om dine forfærdelige Gerningers Vælde, og jeg vil fortælle om din Magt.
 Psa 145:7 De skulle udbrede din store Godheds Ihukommelse og synge med Fryd om din Retfærdighed.
 Psa 145:8 Herren er naadig og barmhjertig, langmodig og af stor Miskundhed.
@@ -16432,7 +16432,7 @@ Psa 147:11 Behag har Herren til dem, som ham frygte, som haabe paa hans Miskundh
 Psa 147:12 O, Jerusalem! pris Herren; o, Zion! lov din Gud.
 Psa 147:13 Thi han har gjort dine Portes Stænger stærke, han har velsignet dine Børn i din Midte.
 Psa 147:14 Han beskikker Fred i dine Landemærker, han mætter dig med den bedste Hvede.
-Psa 147:15 Han sender sit Ord til Jorden, hans Beføling løber saare hastelig.
+Psa 147:15 Han sender sit Ord til Jorden, hans Befaling løber saare hastelig.
 Psa 147:16 Han lader Sne lægge sig som Uld, han udstrør Rimfrost som Aske.
 Psa 147:17 Han udkaster sin Is som Billinger; hvo kan staa for hans Kulde?
 Psa 147:18 Han sender sit Ord og smelter den; han lader sit Vejr blæse, saa flyde Vandene hen.
@@ -17384,7 +17384,7 @@ Pro 31:30 Yndighed er Bedrag, og Skønhed er Forfængelighed; men en Kvinde, som f
 Pro 31:31 Giver hende af hendes Hænders Frugt, og hendes Gerninger skulle prise hende i Portene.
 Ecc 1:1 Ord af Prædikeren, Davids Søn, Kongen i Jerusalem.
 Ecc 1:2 Forfængeligheders Forfængelighed! sagde Prædikeren, Forfængeligheders Forfængelighed, alt sammen Forfængelighed.
-Ecc 1:3 Hvad Fordel har Mennesket af al sin Møje, som han plager sig med under Solen?
+Ecc 1:3 aHvad Fordel har Mennesket af al sin Møje, som han plager sig med under Solen?
 Ecc 1:4 En Slægt gaar, og en Slægt kommer; men Jorden staar evindelig.
 Ecc 1:5 Og Solen gaar op, og Solen gaar ned, og den higer hen til sit Sted, hvor den gaar op.
 Ecc 1:6 Vinden gaar imod Sønden og drejer sig om imod Norden; den gaar frem, idet den vedbliver at dreje sig om, og til sine Kredse kommer Vinden tilbage.
@@ -17629,7 +17629,7 @@ Sol 2:5 Styrker mig med Rosinkager, vederkvæger mig med Æbler! thi jeg er syg af
 Sol 2:6 Hans venstre Haand er under mit Hoved, og hans højre Haand omfavner mig.
 Sol 2:7 Jeg besværger eder, I Jerusalems Døtre! ved Raaerne eller ved Hinderne paa Marken, at I ikke vække eller forstyrre den kære, førend hun har Lyst dertil.
 Sol 2:8 Min elskedes Røst! se, der kommer han, springende over Bjergene, hoppende over Højene.
-Sol 2:9 Min elskede er lig en Raa eller en ung Hjort: se, han staar bag vor Væg, han ser ind igennem Vinduerne, kiger igennem Vinduesgitteret.
+Sol 2:9 Min elskede er lig en Raa eller en ung Hjort; se, han staar bag vor Væg, han ser ind igennem Vinduerne, kiger igennem Vinduesgitteret.
 Sol 2:10 Min elskede svarer og siger til mig: Staa op, min Veninde! min skønne! og gak frem.
 Sol 2:11 Thi se, Vinteren er forbi, Regnen er gaaet over og dragen bort.
 Sol 2:12 Blomsterne ere komne til Syne i Landet, Sangens Tid er kommen, og Turtelduens Røst er hørt i vort Land.
@@ -20837,7 +20837,7 @@ Eze 16:6 Og jeg gik forbi dig og saa dig sprællende i dit Blod; og jeg sagde til
 Eze 16:7 Jeg gjorde dig til ti Tusinde, som Markens Grøde, og du voksede til, og du blev stor og traadte ind i din Skønheds Fylde; Brysterne hævede sig, og dit Haar voksede, men du var nøgen og bar.
 Eze 16:8 Og jeg gik forbi dig og saa dig, og se, din Tid, Elskovstiden var kommen, og jeg bredte min Flig over dig og skjulte din Blusel; og jeg gav dig min Tro og traadte i Pagt med dig, siger den Herre, Herre, og du blev min.
 Eze 16:9 Og jeg badede dig i Vand og skyllede dit Blod af dig og salvede dig med Olie.
-Eze 16:10 Og jeg klædte dig med stukne Klæder, og jeg iførte dig Sko at Grævlingeskind, og jeg ombandt dig med hvidt Linned og klædte dig i Silke.
+Eze 16:10 Og jeg klædte dig med stukne Klæder, og jeg iførte dig Sko af Grævlingeskind, og jeg ombandt dig med hvidt Linned og klædte dig i Silke.
 Eze 16:11 Og jeg prydede dig saare og lagde Armbaand om dine Hænder og en Kæde om din Hals.
 Eze 16:12 Og jeg satte et Smykke i din Næse, og Ringe i dine Øren og en dejlig Krone paa dit Hoved.
 Eze 16:13 Og du var prydet med Guld og Sølv, og din Klædning var hvidt Linned og Silke og stukket Arbejde; du aad fint Mel og Honning og Olie; og du blev overmaade dejlig og skred frem til kongelig Værdighed.
@@ -20900,7 +20900,7 @@ Eze 17:6 Og denne voksede og blev til et sig udbredende Vintræ, lavt af Vækst, f
 Eze 17:7 Og der var en anden stor Ørn med store Vinger og mange Fjer; og se, dette Vintræ bøjede sine Rødder til den og udskød sine Grene til den ud fra det Bed, hvor det var plantet, at den skulde vande det.
 Eze 17:8 Det var plantet paa en god Ager ved meget Vand, at det kunde have faaet Grene og baaret Frugt, at det kunde blevet til et herligt Vintræ.
 Eze 17:9 Sig: Saa siger den Herre, Herre: Skal det lykkes? skal man ikke oprykke dets Rødder og afslaa dets Frugt, saa at det bliver tørt? Alle dets fremskudte Blade skulle hentørres, og det skal ikke ske ved en stærk Arm eller meget Folk, at man skal bringe det op fra sine Rødder.
-Eze 17:10 Og se, det var plantet, men mon det skal lykkes? skal det ikke blive tørt, saa snart Østen vejr rører ved det? det skal visselig blive tørt i det Bed, hvori det voksede.
+Eze 17:10 Og se, det var plantet, men mon det skal lykkes? skal det ikke blive tørt, saa snart Østenvejr rører ved det? det skal visselig blive tørt i det Bed, hvori det voksede.
 Eze 17:11 Og Herrens Ord kom til mig saaledes:
 Eze 17:12 Sig dog til det genstridige Hus: Vide I ikke, hvad disse Ting betyde? sig: Se, Kongen af Babel kom til Jerusalem og tog dens Konge og dens Fyrster og førte dem til sig til Babel.
 Eze 17:13 Og han tog een af den kongelige Sæd og gjorde en Pagt med ham, og han tog ham i Ed; men de vældige i Landet tog han bort,
@@ -21056,7 +21056,7 @@ Eze 22:11 Og man har bedrevet Vederstyggelighed med sin Næstes Hustru, og man ha
 Eze 22:12 De toge Skænk hos dig for at udøse Blod; du tog Aager og Overgivt og forfordelte din Næste ved Undertrykkelse, men mig glemte du, siger den Herre, Herre.
 Eze 22:13 Og se, jeg har slaaet mine Hænder sammen over din Vinding, som du har gjort dig, og for din Blodskyld, som er i din Midte.
 Eze 22:14 Mon dit Hjerte skal kunne holde Stand? mon dine Hænder skulle beholde Styrke paa de Dage, naar jeg vil handle med dig? jeg, Herren, jeg har talt det og vil gøre det.
-Eze 22:15 Og jeg vil adsprede dig iblandt Hedningerne og strø dig over Landene og bortskaffe din Urenhed fra dig,
+Eze 22:15 Og jeg vil adsprede dig iblandt Hedningerne og strø dig over Landene og bortskaffe din Urenhed fra dig.
 Eze 22:16 Og du skal være vanhelliget ved dig selv for Hedningernes Øjne og fornemme, at jeg er Herren.
 Eze 22:17 Og Herrens Ord kom til mig saaledes:
 Eze 22:18 Du Menneskesøn! Israels Hus er blevet mig til Slagger; de ere alle Kobber og Tin og Jern og Bly midt i en Ovn, Sølvslagger ere de blevne.
@@ -21155,7 +21155,7 @@ Eze 25:3 og sig til Ammons Børn: Hører den Herre, Herres Ord: Saa siger den Herr
 Eze 25:4 Derfor se, jeg vil give dig til Ejendom for Østens Folk, og de skulle opslaa deres Teltbyer i dig og sætte deres Boliger i dig; de skulle æde din Frugt, og de skulle drikke din Mælk.
 Eze 25:5 Og jeg vil gøre Rabba til Græsgang for Kameler og Ammons Børns Land til Faareleje; og I skulle fornemme, at jeg er Herren.
 Eze 25:6 Thi saa siger den Herre, Herre: Fordi du klappede i Haanden og stampede med Foden og glædede dig i al din Haan efter din Sjæls Lyst imod Israels Land:
-Eze 25:7 Derfor se, jeg ud rækker min Haand imod dig og giver dig hen til Bytte for Folkene og udrydder dig af Folkeslægternes Tal og lader dig forsvinde af Lan dene; jeg vil ødelægge dig, og du skal fornemme, at jeg er Herren.
+Eze 25:7 Derfor se, jeg ud rækker min Haand imod dig og giver dig hen til Bytte for Folkene og udrydder dig af Folkeslægternes Tal og lader dig forsvinde af Landene; jeg vil ødelægge dig, og du skal fornemme, at jeg er Herren.
 Eze 25:8 Saa siger den Herre, Herre: Fordi Moab og Sejr sige: Se, Judas Hus er ligesom alle Hedningerne:
 Eze 25:9 Derfor se, jeg vil aabne Moabs Side fra Stæderne af, fra dets Grænsestæder af, Landets Pryd, Beth-Jesimoth, Baal-Meon og Kirjathama,
 Eze 25:10 for Østens Børn tillige med Ammons Børns Land, og jeg vil give dem det til Ejendom, paa det man ikke skal ihukomme Ammons Børn iblandt Folkene;
@@ -21191,7 +21191,7 @@ Eze 27:1 Og Herrens Ord kom til mig saaledes:
 Eze 27:2 Og du Menneskesøn! opløft et Klagemaal over Tyrus,
 Eze 27:3 og sig til Tyrus, som bor ved Havets Havne, og som handler med Folkene paa mange Øer: Saa siger den Herre, Herre: O Tyrus! du sagde: Jeg er fuldkommen i Skønhed.
 Eze 27:4 Dine Landemærker ere midt i Havet, dine Bygningsmænd have gjort din Skønhed fuldendt.
-Eze 27:5 De byggede dig hele Opklædningen af Fyrretræ fra Senir; de hentede Geder fra Libanon til at gøre en Mast paa dig.
+Eze 27:5 De byggede dig hele Opklædningen af Fyrretræ fra Senir; de hentede Ceder fra Libanon til at gøre en Mast paa dig.
 Eze 27:6 De gjorde dine Aarer af Eg fra Basan; dit Dæk gjorde de af Elfenben, indlagt i Buksbom fra Kithims Øer.
 Eze 27:7 Dit Sejl var af hvidt Linned med stukket Arbejde fra Ægypten, for at det skulde være dig til Mærke; af blaat Purpur og rødt Purpur fra Elisas Øer var dit Solsejl.
 Eze 27:8 Indbyggerne i Zidon og Arvad vare dine Rorkarle; dine vise, o Tyrus! som vare i dig, de vare dine Styrmænd.
@@ -21202,14 +21202,14 @@ Eze 27:12 Tharsis handlede med dig, fordi du havde Mangfoldighed af alle Haande 
 Eze 27:13 Javan, Tubal og Mesek, de vare dine Kræmmere; Menneskesjæle og Kobberkar gave de dig i Tusk.
 Eze 27:14 De af Thogarmas Hus betalte dine Varer med Køreheste og Rideheste og Mulæsler.
 Eze 27:15 Dedans Børn vare dine Kræmmere; mange Kyster stode i Handelsforhold med dig; de gave dig Elfenben og Ebentræ til Betaling.
-Eze 27:16 Syrien handlede med dig, fordi du havde en Mangfoldighed af Arbejder; med Karbunkel, Purpur og stukket Arbejde jog hvidt Linned og Koraller og Rubiner betalte de dine Varer.
+Eze 27:16 Syrien handlede med dig, fordi du havde en Mangfoldighed af Arbejder; med Karbunkel, Purpur og stukket Arbejde og hvidt Linned og Koraller og Rubiner betalte de dine Varer.
 Eze 27:17 Judas og Israels Lande, de vare dine Kræmmere; Hvede fra Minnit og søde Sager og Honning og Olie og Balsam gave de dig i Tusk.
 Eze 27:18 Damaskus handlede med dig, fordi du havde en Mangfoldighed af Arbejder, for Mangfoldigheden af alle Haande Gods, med Vin af Helbon og hvid Uld.
 Eze 27:19 Vedan og Javan gave Sager fra Uzzal for dine Varer; skinnende Jern, Kasia og Kalmus gaves dig i Tusk.
 Eze 27:20 Dedan handlede med dig med Dækkener til at ride paa.
 Eze 27:21 Arabien og alle Kedars Fyrster, de stode i Handelsforhold med dig; med Lam og Vædre og Bukke, med dem handlede de med dig.
-Eze 27:22 Kræmmere fra Seba og Raema, de vare dine Kræmmere; med det ypperste af alle Haande Urter og med alje Haande kostbare Stene og Guld betalte de dine Varer.
-Eze 27:23 Haran og Karma og Eden, Kræmmere fra Seba, Assur og Kilmad handlede med dig.
+Eze 27:22 Kræmmere fra Seba og Raema, de vare dine Kræmmere; med det ypperste af alle Haande Urter og med alle Haande kostbare Stene og Guld betalte de dine Varer.
+Eze 27:23 Haran og Kanna og Eden, Kræmmere fra Seba, Assur og Kilmad handlede med dig.
 Eze 27:24 De vare dine Kræmmere med Kostbarheder, bestaaende i Kapper af blaat Purpur og stukket Arbejde, og med værdifuldt Garn, i tvundne og faste Snore, paa dit Marked.
 Eze 27:25 Tharsis's Skibe droge omkring for dig, de dreve din Handel, og du blev fyldt og saare rig midt i Havet.
 Eze 27:26 Dine Rorkarle førte dig paa de store Vande, Østenvejret sønderslog dig midt i Havet.
@@ -21220,7 +21220,7 @@ Eze 27:30 Og de lade deres Røst høre over dig og raabe bitterlig; og de kaste St
 Eze 27:31 Og de rage sig helt skaldede for din Skyld og iføre sig Sæk; og de græde over dig i Sjælens Bitterhed med en bitter Sorg.
 Eze 27:32 Og de opløfte et Klagemaal over dig i deres Jamren og beklage dig: »Hvo er som Tyrus, som den, der er bleven tavs midt paa Havet?«
 Eze 27:33 Der dine Varer kom frem af Havene, mættede du mange Folk; med Mangfoldigheden af dit Gods, og hvad du handlede med, gjorde du Konger rige paa Jorden.
-Eze 27:34 Nu, da du knust er forsvunden af Havene i de dybe Vandeler din Handel og hele din Skare midt i dig falden.
+Eze 27:34 Nu, da du knust er forsvunden af Havene i de dybe Vande, er din Handel og hele din Skare midt i dig falden.
 Eze 27:35 Alle Øernes Indbyggere gyse over dig, og deres Konger forfærdes saare, de se bedrøvelige ud i Ansigtet.
 Eze 27:36 Købmændene iblandt Folkene pibe ad dig; du er bleven til Gru og er til evig Tid ikke mere.
 Eze 28:1 Og Herrens Ord kom til mig saalunde:
@@ -21258,7 +21258,7 @@ Eze 29:6 Og alle Ægyptens Indbyggere skulle fornemme, at jeg er Herren. Fordi de
 Eze 29:7 naar de gribe din Haand, knækker du og splitter dem hver Skulder; og naar de støtte sig paa dig, sønderbrydes du og bringer dem alle Lænder til at vakle —
 Eze 29:8 derfor, saa siger den Herre, Herre: Se, jeg lader et Sværd komme over dig, og jeg vil udrydde Mennesker og Kvæg af dig.
 Eze 29:9 Og Ægyptens Land skal blive til Ødelæggelse og Øde; og de skulle fornemme, at jeg er Herren. Fordi han siger: Det er min Strøm, og jeg har skabt den:
-Eze 29:10 Derfor se! vil jeg komme til dig og til dine Strømme og gøre Ægyptens Land til aldeles øde Ørkener, fra Migdol til Sy ene, og indtil Morlands Landemærke.
+Eze 29:10 Derfor se! vil jeg komme til dig og til dine Strømme og gøre Ægyptens Land til aldeles øde Ørkener, fra Migdol til Syene, og indtil Morlands Landemærke.
 Eze 29:11 Der skal ikke gaa Menneskefod igennem det, og Fæs Fod skal ikke gaa der igennem; og det skal ikke bebos i fyrretyve Aar.
 Eze 29:12 Og jeg vil gøre Ægyptens Land til et Øde midt iblandt de ødelagte Lande, og dets Stæder skulle blive øde midt iblandt de ødelagte Stæder, fyrretyve Aar; og jeg vil adsprede Ægypterne iblandt Folkene og strø dem ud i Landene.
 Eze 29:13 Thi saa siger den Herre, Herre: Naar fyrretyve Aar ere til Ende, vil jeg samle Ægypterne hjem fra Folkene, hvorhen de vare adspredte.
@@ -21287,7 +21287,7 @@ Eze 30:14 Og jeg vil ødelægge Patros og tænde en Ild i Zoan og holde Ret over No
 Eze 30:15 Og jeg vil udøse min Harme over Sin, Ægypternes Fæstning, og udrydde Mængden i No.
 Eze 30:16 Og jeg vil tænde en Ild i Ægypten, Sin skal vaande sig i Smerte, og No skal blive til at søndersplittes, og Nof skal have Fjender ved højlys Dag.
 Eze 30:17 De unge Karle i Aven og Pibeset skulle falde for Sværdet, og de selv skulle gaa i Fangenskab.
-Eze 30:18 Og i Thakpankes formørkes Dagen, naar jeg der sønderbryder Ægyptens Aag, og dets Magts Stolthed der hører opf en Sky skal bedække det selv, og dets Døtre skulle gaa i Fangenskab.
+Eze 30:18 Og i Thakpankes formørkes Dagen, naar jeg der sønderbryder Ægyptens Aag, og dets Magts Stolthed der hører op; en Sky skal bedække det selv, og dets Døtre skulle gaa i Fangenskab.
 Eze 30:19 Og jeg vil holde Ret over Ægypten, og de skulle fornemme, at jeg er Herren.
 Eze 30:20 Og det skete i det ellevte Aar, i den første Maaned, paa den syvende Dag i Maaneden, at Herrens Ord kom til mig saalunde:
 Eze 30:21 Du Menneskesøn! jeg har sønderbrudt Faraos, Kongen af Ægyptens, Arm, og se, den bliver ikke forbunden, saa man anvender Lægedom og lægger Bind paa for at forbinde den for at gøre den stærk til at tage fat paa Sværdet.
@@ -21312,12 +21312,12 @@ Eze 31:13 alle Himmelens Fugle nedlode sig paa dens faldne Stamme, og alle vilde
 Eze 31:14 paa det at ingen Træer ved Vandet skulle ophøje sig af deres Vækst og ej strække deres Top op imellem Skyerne, og ingen Træer, som drikke Vand, skulle stole paa sig selv for deres Højheds Skyld; thi de ere alle sammen overgivne til Døden, for at komme til Underverdenens Land, midt iblandt Menneskens Børn, til dem, som nedfare i Hulen.
 Eze 31:15 Saa siger den Herre, Herre: Paa den Tid, der han for ned i Dødsriget, gjorde jeg, at man sørgede; jeg tilhyllede Dybet for hans Skyld og standsede dets Strømme, og de mange Vande holdtes tilbage, og jeg klædte Libanon i Sørgedragt for hans Skyld, ja, alle Træer paa Marken forsmægtede for hans Skyld.
 Eze 31:16 Jeg gjorde, at Folkene bævede ved Lyden af hans Fald, da jeg styrtede ham ned i Dødsriget til dem, som fare ned i Hulen, og alle Edens Træer, de udvalgte og skønneste paa Libanon, alle de, som drikke Vand, trøstede sig i Underverdenens Land.
-Eze 31:17 Ogsaa de nedføre med ham i Dødsriget til dem, som vare ihjelslagne med Sværd, da de som hans Hjælpere havde siddet i hans Skygge midt iblandt Folkene.
+Eze 31:17 Ogsaa de nedfore med ham i Dødsriget til dem, som vare ihjelslagne med Sværd, da de som hans Hjælpere havde siddet i hans Skygge midt iblandt Folkene.
 Eze 31:18 Hvem ligner du, saaledes som du var i Ære og Storhed iblandt Edens Træer? ja, du skal nedstyrtes med Edens Træer til Underverdenens Land; midt iblandt de uomskaarne skal du ligge ved dem, som ere ihjelslagne ved Sværdet. Dette er Farao og al hans Hob, siger den Herre, Herre.
 Eze 32:1 Og det skete i det tolvte Aar, i den tolvte Maaned, paa den første Dag i Maaneden, at Herrens Ord kom til mig saaledes:
 Eze 32:2 Du Menneskesøn! opløft et Klagemaal over Farao, Kongen af Ægypten, og sig til ham: Du blev lignet med en ung Løve iblandt Folkene, men du var som en Drage i Havet, du brød frem i dine Strømme, og plumrede Vandene med dine Fødder og trampede i deres Strømme.
 Eze 32:3 Saa siger den Herre, Herre: Derfor vil jeg udbrede mit Garn over dig ved en Forsamling af mange Folkeslag, og de skulle trække dig op i mit Vod.
-Eze 32:4 Og jeg vil kaste dig op paa Landet og slænge dig hen oven paa Marken; og jeg vil lade alle Himmelens Fugle sætte sig paa dig og mætte de vride Dyr paa hele Jorden af dig.
+Eze 32:4 Og jeg vil kaste dig op paa Landet og slænge dig hen oven paa Marken; og jeg vil lade alle Himmelens Fugle sætte sig paa dig og mætte de vilde Dyr paa hele Jorden af dig.
 Eze 32:5 Og jeg vil kaste dit Kød paa Bjergene og fylde Dalene med din store Krop.
 Eze 32:6 Og jeg vil væde Landet med, hvad der udstrømmer af dig, med dit Blod, indtil Bjergene, og Flodsengene skulle blive fulde af dig.
 Eze 32:7 Og naar jeg udslukker dig, vil jeg bedække Himmelen og formørke dens Stjerner; Solen vil jeg bedække med en Sky, og Maanen skal ikke lade sit Lys skinne.
@@ -21349,12 +21349,12 @@ Eze 32:32 Thi jeg har ladet ham volde Forskrækkelse i de levendes Land; saa skal
 Eze 33:1 Og Herrens Ord kom til mig saaledes:
 Eze 33:2 Du Menneskesøn! tal til dit Folks Børn, og sig til dem: Naar jeg skulde føre Sværd over et Land, og Folk i Landet toge een Mand iblandt sig og gjorde ham til deres Vægter,
 Eze 33:3 og han saa Sværdet komme over Landet og blæste i Trompeten og advarede Folket;
-Eze 33:4 og den, som da hørte Trompetens Lyd, dog ikke vilde lade sig advare, og Sværdet kom og tog ham bort; Saa, skal hans Blod være over hans Hoved.
+Eze 33:4 og den, som da hørte Trompetens Lyd, dog ikke vilde lade sig advare, og Sværdet kom og tog ham bort; Saa skal hans Blod være over hans Hoved.
 Eze 33:5 Han hørte Trompetens Lyd og lod sig ikke advare, hans Blod skal være over ham; men havde han ladet sig advare, vilde han have reddet sit Liv.
 Eze 33:6 Men naar Vægteren saa Sværdet komme og ej blæste i Trompeten, og Folket ej advaredes, og Sværdet kom og tog en Sjæl bort af dem: Saa blev han vel borttagen for sin Misgernings Skyld, men hans Blod vil jeg kræve af Vægterens Haand.
 Eze 33:7 Og du, Menneskesøn! jeg har sat dig til Vægter for Israels Hus, at, naar du hører et Ord af min Mund, du skal advare dem paa mine Vegne.
 Eze 33:8 Naar jeg siger til den ugudelige: Du ugudelige skal visselig dø, og du ikke taler for at advare den ugudelige for hans Vej, da skal han, den ugudelige, vel dø for sin Misgerning, men hans Blod vil jeg kræve af din Haand.
-Eze 33:9 Men naar du advarer den ugudelige for hans Vej, at han skal omvende sig derfra, og han, dog ikke omvender sig fra sin Vej, da skal han dø for sin Misgerning, men du skal have din Sjæl frelst.
+Eze 33:9 Men naar du advarer den ugudelige for hans Vej, at han skal omvende sig derfra, og han dog ikke omvender sig fra sin Vej, da skal han dø for sin Misgerning, men du skal have din Sjæl frelst.
 Eze 33:10 Og du Menneskesøn! sig til Israels Hus: I sige saaledes: Vore Overtrædelser og vore Synder ere over os, og vi hensvinde under dem; hvorledes kunne vi da leve?
 Eze 33:11 Sig til dem: Saa sandt jeg lever, siger den Herre, Herre: Jeg har ikke Behag i den ugudeliges Død, men deri, at den ugudelige omvender sig fra sin Vej, at han maa leve; vender om, vender om fra eders onde Veje! hvorfor ville I dog dø, Israels Hus?
 Eze 33:12 Og du Menneskesøn! sig til dit Folks Børn: Den retfærdiges Retfærdighed skal ikke redde ham paa hans Overtrædelses Dag, og den ugudelige skal ikke falde for sin Ugudelighed paa den Dag, han omvender sig fra sin Ugudelighed, og den retfærdige skal ikke kunne leve derved, paa den Dag han synder.
@@ -21377,7 +21377,7 @@ Eze 33:28 Og jeg vil gøre Landet til en Ødelæggelse og en Ørk, og dets Magts Sto
 Eze 33:29 Saa skulle de fornemme, at jeg er Herren, naar jeg gør Landet til en Ødelæggelse og en Ørk, formedelst alle deres Vederstyggeligheder, som de have gjort.
 Eze 33:30 Og du Menneskesøn! dit Folks Børn tale indbyrdes om dig ved Væggene og i Husdørene, og den ene taler med den anden, hver med sin Broder, sigende: Kære, kommer og hører, hvad det er for et Ord, som udgaar fra Herren.
 Eze 33:31 Og de skulle komme til dig, som et Folk kommer, og sidde for dit Ansigt som mit Folk, og de skulle høre dine Ord og ikke gøre efter dem; men det, der er behageligt i deres Mund, gøre de, og deres Hjerte gaar efter deres egen Fordel.
-Eze 33:32 Og se, du er dem som en behagelig Sanger, der har en dejlig Røst; og som kan spille smukt; derfor skulle de høre dine Ord, men dog ikke gøre efter dem.
+Eze 33:32 Og se, du er dem som en behagelig Sanger, der har en dejlig Røst, og som kan spille smukt; derfor skulle de høre dine Ord, men dog ikke gøre efter dem.
 Eze 33:33 Men naar det kommer — se, det kommer! — da skulle de fornemme, at der har været en Profet midt iblandt dem.
 Eze 34:1 Og Herrens Ord kom til mig saaledes:
 Eze 34:2 Du Menneskesøn! spaa imod Israels Hyrder, spaa, og sig til dem, til Hyrderne: Saa siger den Herre, Herre: Ve Israels Hyrder, som ere deres egne Vogtere! skulle ikke Hyrderne være Faarenes Vogtere?
@@ -21390,22 +21390,22 @@ Eze 34:8 Saa sandt jeg lever, siger den Herre, Herre: Fordi mine Faar ere blevne
 Eze 34:9 Derfor, I Hyrder, hører Herrens Ord!
 Eze 34:10 Saa siger den Herre, Herre: Se, jeg kommer imod Hyrderne og kræver mine Faar af deres Haand og lader dem blive fri for at vogte Faarene, saa Hyrderne ikke mere skulle være deres egne Vogtere; og jeg vil redde mine Faar af deres Mund, og de skulle ikke være dem til Føde.
 Eze 34:11 Thi saa siger den Herre, Herre: Se, da vil jeg, jeg spørge efter mine Faar og se efter dem.
-Eze 34:12 Som en Hyrde ser efter sin Hjord paa den Dag, han er midt iblandt sine Faar, som ere adspredte, saaledes vil jeg se efter mine Faar og føre dem frelste hjem fra alle de Steder, hvorhen de vare adspredte paa Sky og Mørkhedsdag.
+Eze 34:12 Som en Hyrde ser efter sin Hjord paa den Dag, han er midt iblandt sine Faar, som ere adspredte, saaledes vil jeg se efter mine Faar og føre dem frelste hjem fra alle de Steder, hvorhen de vare adspredte paa Sky- og Mørkhedsdag.
 Eze 34:13 Og jeg vil føre dem ud fra Folkene og samle dem fra Landene og føre dem ind i deres Land; og jeg vil vogte dem paa Israels Bjerge, i Dalene, og hvor de bo i Landet.
 Eze 34:14 Paa en god Græsgang vil jeg lade dem græsse, og deres Overdrev skal være paa Israels høje Bjerge; der skulle de ligge paa et godt Overdrev, og paa en fed Græsgang skulle de græsse over Israels Bjerge.
 Eze 34:15 Jeg vil selv vogte mine Faar og selv lade dem hvile, siger den Herre, Herre.
 Eze 34:16 Efter det, som er tabt, vil jeg lede, og det fordrevne vil jeg føre tilbage, og det, som har lidt Brud, vil jeg forbinde, og det syge vil jeg styrke, men det fede og det stærke vil jeg ødelægge, jeg vil vogte det med Retfærdighed.
-Eze 34:17 Og I, mine Faar! saa siger den Herre, Herre: Se, jeg dømmer imellem Lam og Lam, imellem fædrene og Bukkene.
+Eze 34:17 Og I, mine Faar! saa siger den Herre, Herre: Se, jeg dømmer imellem Lam og Lam, imellem Vædrene og Bukkene.
 Eze 34:18 Mon det er eder for lidet, at I afgræsse den gode Græsgang, saa at I skulle træde det, som bliver tilovers af eders Græsgang, ned med eders Fødder? eller at I drikke det klarede Vand, saa at I skulle plumre det, som bliver tilovers, med eders Fødder?
-Eze 34:19 Og mine Faar — skylle de græsse paa det, som er nedtraadt med eders Fødder? eller drikke det, som er plumret med eders Fødder?
+Eze 34:19 Og mine Faar — skulle de græsse paa det, som er nedtraadt med eders Fødder? eller drikke det, som er plumret med eders Fødder?
 Eze 34:20 Derfor, saa siger den Herre, Herre til dem: Se, jeg, jeg vil dømme imellem det fede Lam og imellem det magre Lam.
 Eze 34:21 Fordi I med Side og Bov støde og med eders Horn stange alle de svage, indtil I have faaet dem adspredte og jagede udenfor,
-Eze 34:22 derfor vil jeg frelse mine Faar, og de skulle ikke ydermere være til Rov, og jeg, vil dømme imellem Lam og Lam.
+Eze 34:22 derfor vil jeg frelse mine Faar, og de skulle ikke ydermere være til Rov, og jeg vil dømme imellem Lam og Lam.
 Eze 34:23 Og jeg vil lade een Hyrde staa frem for dem, og han skal vogte dem, nemlig min Tjener David ; han, han skal vogte dem, og han skal være dem en Hyrde.
 Eze 34:24 Og jeg Herren, jeg vil være deres Gud, og min Tjener David skal være en Fyrste midt iblandt dem; jeg Herren, jeg har talt det.
 Eze 34:25 Og jeg vil slutte med dem en Fredens Pagt og lade onde Dyr forsvinde af Landet, saa at de kunne bo tryggelig i Ørken og sove i Skovene.
 Eze 34:26 Og jeg vil gøre dem og de Steder, som ere trindt omkring min Høj, til en Velsignelse; og jeg vil lade Regnen falde i rette Tid, det skal være Velsignelses Regnstrømme.
-Eze 34:27 Og Træet paa Marken skal give sin Frugt, og Jorden skal give sin Grøde, og de skulle være trygge i deres Land, og de skulle fornemme, at jeg er Herren, naar jeg bryder deres Rykkende Aag og redder dem af deres Haand, som brugte dem til Trælle.
+Eze 34:27 Og Træet paa Marken skal give sin Frugt, og Jorden skal give sin Grøde, og de skulle være trygge i deres Land, og de skulle fornemme, at jeg er Herren, naar jeg bryder deres trykkende Aag og redder dem af deres Haand, som brugte dem til Trælle.
 Eze 34:28 Og de skulle ikke ydermere være et Rov for Hedningerne, og intet vildt Dyr paa Jorden skal opæde dem; men de skulle bo tryggelig, og der skal ingen forfærde dem.
 Eze 34:29 Og jeg vil fremkalde en Plantning for dem til Navnkundighed, og de skulle ikke ydermere bortrives af Hunger i Landet og ej mere bære Hedningernes Forhaanelse.
 Eze 34:30 Og de skulle fornemme, at jeg Herren, deres Gud, er med dem, og at de ere mit Folk, Israels Hus, siger den Herre, Herre.
@@ -21415,7 +21415,7 @@ Eze 35:2 Du Menneskesøn! vend dit Ansigt imod Seirs Bjerg og spaa imod det!
 Eze 35:3 Og du skal sige til det: Saa siger den Herre, Herre: Se, jeg kommer imod dig, Seirs Bjerg! og jeg vil udrække min Haand imod dig og gøre dig til en Ødelæggelse og en Ørk.
 Eze 35:4 Dine Stæder vil jeg gøre øde, og du selv skal vorde en Ødelæggelse; og du skal fornemme, at jeg er Herren.
 Eze 35:5 Fordi du nærer et evigt Fjendskab og overgav Israels Børn i Sværdets Vold, i deres Trængsels Tid, den Tid, da Misgerningen medførte Enden:
-Eze 35:6 Derfor, saa sandt jeg lever, siger den Herre, Herre, vil jeg gøre dig til Blod, og Blod skal forfølge dig, efterdi du ikke har hadet Blod, skal Blod forfølge dig.
+Eze 35:6 Derfor, saa sandt jeg lever, siger den Herre, Herre, vil jeg gøre dig til Blod, og Blod skal forfølge dig; efterdi du ikke har hadet Blod, skal Blod forfølge dig.
 Eze 35:7 Og jeg vil gøre Seirs Bjerg til en Ødelæggelse og en Ørk; og jeg vil udrydde deraf enhver, som drager frem og tilbage.
 Eze 35:8 Og jeg vil fylde Bjergene der med deres ihjelslagne; paa dine Høje og i dine Dale og i alle dine Flodlejer, der falde de, som ere ihjelslagne med Sværd.
 Eze 35:9 Jeg vil gøre dig til evige Ørkener, og dine Stæder skulle ikke bebos; og I skulle fornemme, at jeg er Herren.
@@ -21437,7 +21437,7 @@ Eze 36:9 Thi se, jeg kommer til eder og vender mit Ansigt til eder, og I skulle 
 Eze 36:10 Og jeg vil gøre Menneskene paa eder mangfoldige, hele Israels Hus alt sammen, og Stæderne skulle blive beboede, og de ødelagte Stæder skulle opbygges.
 Eze 36:11 Ja, jeg vil gøre Mennesker og Kvæg paa eder mangfoldige, og de skulle formere sig og være frugtbare; og jeg vil lade eder blive beboede som i eders gamle Tider og gøre eder mere godt end i eders første Tider; og I skulle fornemme, at jeg er Herren.
 Eze 36:12 Og jeg vil lade Mennesker, mit Folk Israel, vandre paa eder, og de skulle eje dig , og du skal være dem til Arv, og du skal ikke blive ved at gøre dem barnløse.
-Eze 36:13 Saa siger den Herre, Herre: Efterdi de sige til eder: Du har fortæret Mennesker, og du har gjort dine Folk Ramløse,
+Eze 36:13 Saa siger den Herre, Herre: Efterdi de sige til eder: Du har fortæret Mennesker, og du har gjort dine Folk barnløse,
 Eze 36:14 derfor skal du ikke ydermere fortære Mennesker og ej ydermere bringe dit Folk til at falde, siger den Herre, Herre.
 Eze 36:15 Og jeg vil ikke ydermere lade dig høre Hedningernes Bespottelse, og du skal ikke ydermere bære Folkenes Forhaanelse og ikke ydermere bringe dine Folk til at falde, siger den Herre, Herre.
 Eze 36:16 Og Herrens Ord kom til mig saaledes:
@@ -21451,11 +21451,11 @@ Eze 36:23 Og jeg vil helliggøre mit store Navn, som er vanhelliget iblandt Hedni
 Eze 36:24 Og jeg vil tage eder fra Hedningerne og samle eder ud fra alle Landene og lade eder komme til eders Land.
 Eze 36:25 Og jeg vil stænke rent Vand over eder, og I skulle blive rene; fra alle eders Urenheder og fra alle eders Afguder vil jeg rense eder.
 Eze 36:26 Og jeg vil give eder et nyt Hjerte og give en ny Aand inden i eder, og jeg vil borttage Stenhjertet af eders Kød og give eder et Kødhjerte.
-Eze 36:27 Og jeg vil sende min Aand inden i eder og gøre, at I skulle vandre efter mine Skikke og holde mine Bud og gøre hefter dem.
+Eze 36:27 Og jeg vil sende min Aand inden i eder og gøre, at I skulle vandre efter mine Skikke og holde mine Bud og gøre efter dem.
 Eze 36:28 Og I skulle bo i Landet, som jeg har givet eders Fædre, og I skulle være mit Folk, og jeg vil være eders Gud.
 Eze 36:29 Og jeg vil holde eder fri fra alle eders Urenheder, og jeg vil kalde paa Kornet og gøre det mangfoldigt og ikke sende Hunger over eder.
 Eze 36:30 Og jeg vil gøre Frugten paa Træerne og Grøden paa Marken mangfoldig, paa det I ikke ydermere skulle tage imod Forhaanelse for Hungers Skyld iblandt Hedningerne.
-Eze 36:31 Da skulle I komme eders onde Veje i Hu og eders Idrætter, som ikke vare gode, og I skulle væmmes over eder selv for eders Misgerninger og for eders Vederstyggeligheder,
+Eze 36:31 Da skulle I komme eders onde Veje i Hu og eders Idrætter, som ikke vare gode, og I skulle væmmes over eder selv for eders Misgerninger og for eders Vederstyggeligheder.
 Eze 36:32 At jeg ikke gør dette for eders Skyld, siger den Herre, Herre, det være eder kundgjort; blues og skammer eder over eders Veje, I af Israels Hus!
 Eze 36:33 Saa siger den Herre, Herre: Paa den Dag jeg renser eder fra alle eders Misgerninger, da vil jeg lade Stæderne blive beboede og de øde Steder blive bebyggede.
 Eze 36:34 Og Landet, som var lagt øde, skal dyrkes, i Stedet for at det laa øde for hvers Øjne, som gik igennem det.
@@ -21485,7 +21485,7 @@ Eze 37:19 Da sig til dem: Saa siger den Herre, Herre: Se, jeg vil tage Josefs Tr
 Eze 37:20 Og de Stykker Træ, som du skriver paa, skulle være i din Haand for deres Øjne;
 Eze 37:21 og tal til dem: Saa siger den Herre, Herre: Se, jeg tager Israels Børn ud fra Hedningerne, hvor de vandre, og jeg vil samle dem trindt omkring fra og lade dem komme til deres Land.
 Eze 37:22 Og jeg vil gøre dem til eet Folk i Landet paa Israels Bjerge, og een Konge skal være Konge for dem alle, og de skulle ikke ydermere være tvende Folk og ej ydermere dele sig i to Riger fremdeles.
-Eze 37:23 De skulle ej heller mere besmitte sig ved deres Afguder og ved deres Vederstyggeligheder eller ved nogen af alle deres Overtrædelser; eg jeg vil fri dem for alle deres Boliger, i hvilke de have syndet, og rense dem; og de skulle være mit Folk, og jeg vil være deres Gud,
+Eze 37:23 De skulle ej heller mere besmitte sig ved deres Afguder og ved deres Vederstyggeligheder eller ved nogen af alle deres Overtrædelser; eg jeg vil fri dem for alle deres Boliger, i hvilke de have syndet, og rense dem; og de skulle være mit Folk, og jeg vil være deres Gud.
 Eze 37:24 Og min Tjener David skal være Konge over dem, og der skal være een Hyrde for dem alle, og de skulle vandre efter mine Bud, holde mine Skikke og gøre efter dem.
 Eze 37:25 Og de skulle bo i Landet, som jeg har givet min Tjener Jakob, i hvilket eders Fædre boede; og de skulle bo der, de og deres Børn og deres Børnebørn til evig Tid, og David min Tjener skal være deres Fyrste evindelig.
 Eze 37:26 Og jeg vil slutte en Freds Pagt med dem, det skal være dem en evig Pagt, og jeg vil bosætte dem og gøre dem mangfoldige og sætte min Helligdom midt iblandt dem evindelig.
@@ -21539,11 +21539,11 @@ Eze 39:22 Og Israels Hus skal fornemme, at jeg er Herren deres Gud, fra den samm
 Eze 39:23 Og Hedningerne skulle kende, at Israels Hus blev bortført for deres Misgerning, fordi de havde været troløse imod mig, saa at jeg skjulte mit Ansigt for dem og gav dem i deres Fjenders Haand, og de alle faldt for Sværdet.
 Eze 39:24 Efter deres Urenhed og efter deres Overtrædelser handlede jeg imod dem, og jeg skjulte mit Ansigt for dem.
 Eze 39:25 Derfor, saa siger den Herre, Herre: Nu vil jeg vende Jakobs Fangenskab og forbarme mig over Israels hele Hus og være nidkær for mit hellige Navn.
-Eze 39:26 Og de skulle bære deres Skam og al Jeres Troløshed, som de begik imod mig, naar de bo tryggelig i deres Land, og der ingen er, som forfærder dem,
+Eze 39:26 Og de skulle bære deres Skam og al deres Troløshed, som de begik imod mig, naar de bo tryggelig i deres Land, og der ingen er, som forfærder dem,
 Eze 39:27 naar jeg fører dem tilbage fra Folkene og sanker dem fra deres Fjenders Lande, og naar jeg helliggør mig paa dem for mange Hedningers Øjne.
 Eze 39:28 Og de skulle fornemme, at jeg er Herren deres Gud, idet jeg har bortført dem til Hedningerne og nu samler dem til deres Land og ikke ydermere lader nogen af dem blive tilbage hist.
 Eze 39:29 Jeg vil og ikke mere skjule mit Ansigt for dem; thi jeg har udgydt min Aand over Israels Hus, siger den Herre, Herre.
-Eze 40:1 Idet fem og tyvende Aar, efter at vi vare bortførte, i Aarets Begyndelse, paa den tiende Dag i Maaneden, det fjortende Aar efter at Staden var bleven indtagen — paa denne Dag kom Herrens Haand over mig og førte mig derhen.
+Eze 40:1 I det fem og tyvende Aar, efter at vi vare bortførte, i Aarets Begyndelse, paa den tiende Dag i Maaneden, det fjortende Aar efter at Staden var bleven indtagen — paa denne Dag kom Herrens Haand over mig og førte mig derhen.
 Eze 40:2 I Syner fra Gud førte han mig til Israels Land og satte mig paa et saare højt Bjerg, og oven paa dette saa det ud, som man byggede en Stad imod Syd.
 Eze 40:3 Da han havde ført mig derhen, se, da var der en Mand, hvis Udseende var som Udseendet af Kobber, og der var en Hørgarnssnor og en Maalestok i hans Haand, og han stod i Porten.
 Eze 40:4 Og Manden talte til mig: Du Menneskesøn! se til med dine Øjne, og hør med dine Øren, og ret dit Hjerte til alt det, som jeg vil lade dig se; thi du er ført hid, for at jeg skal lade dig se det; forkynd Israels Hus alt det, du ser.
@@ -21553,12 +21553,12 @@ Eze 40:7 og Vagtkamre, hvert til eet Maal i Længden, og eet Maal i Bredden og fe
 Eze 40:8 Og han maalte Portens Forhal, set indenfra, til eet Maal.
 Eze 40:9 Og han maalte Portens Forhal til otte Alen, og dens Piller til to Alen, og Portens Forhal vendte indad.
 Eze 40:10 Og Vagtkamrene i Porten imod Øst vare tre paa denne og tre paa hin Side, de tre havde ens Maal, og ens Maal havde Pillerne paa denne og paa hin Side.
-Eze 40:11 Og jhan maalte Portaabningens Bredde til ti Alen og Portens Længde til tretten Alen.
+Eze 40:11 Og han maalte Portaabningens Bredde til ti Alen og Portens Længde til tretten Alen.
 Eze 40:12 Og der var en afgrænset Plads foran Vagtkamrene af een Alen paa denne og en afgrænset Plads af een Alen paa hin Side; og hvert Vagtkammer var seks Alen paa denne og seks Alen paa den anden Side.
 Eze 40:13 Og han maalte Porten, fra det ene Vagtkammers Tag indtil det andets Tag, til fem og tyve Alen i Bredden, Dør, imod Dør.
 Eze 40:14 Og han satte Pillerne til tresindstyve Alen, og til Pillerne stødte Forgaarden, trindt omkring Porten.
 Eze 40:15 Og fra Forsiden af Porten, hvor Indgangen er, indtil Forsiden af den indre Ports Forhal var der halvtredsindstyve Alen.
-Eze 40:16 Og der var snævrer Vinduer paa Vagtkamrene og paa deres Piller imod den indvendige Side af Porten trindt omkring og ligesaa paa de fremstaaende Sidemure, og der var Vinduer trindt omkring indadtil, og paa Pillerne var der Palmer.
+Eze 40:16 Og der var snævre Vinduer paa Vagtkamrene og paa deres Piller imod den indvendige Side af Porten trindt omkring og ligesaa paa de fremstaaende Sidemure, og der var Vinduer trindt omkring indadtil, og paa Pillerne var der Palmer.
 Eze 40:17 Og han førte mig til den ydre Forgaard, og se, der var Kamre og et tavlet Stengulv, lagt i Forgaarden trindt omkring; der var tredive Kamre paa dette Gulv.
 Eze 40:18 Og det tavlede Gulv stødte op til Portenes Side, i Bredden svarende til Portbygningernes Længde; dette var det nedre Gulv.
 Eze 40:19 Og han maalte Bredden fra Forsiden af den nederste Port indtil Forsiden af den indre Forgaard, set udvendig fra, til hundrede Alen, den østre og nordre Side.
@@ -21658,7 +21658,7 @@ Eze 43:17 Og Afsætningen skal være fjorten Alen i Længden, med, fjorten Alen i B
 Eze 43:18 Og han sagde til mig: Du Menneskesøn! saa siger den Herre, Herre: Dette er Bestemmelserne om Alteret, paa den Dag det bliver gjort for at ofre Brændoffer derpaa og for at stænke Blod derpaa.
 Eze 43:19 Og du skal give Præsterne af Levi Stamme, som ere af Zadoks Sæd, og som ere mig nær for at tjene mig, siger den Herre, Herre, en ung Okse til Syndoffer.
 Eze 43:20 Og du skal tage af dens Blod og stryge paa dets fire Horn og paa de fire Hjørner af Afsætningen og paa Listen trindt omkring; og du skal rense det for Synd og udsone det.
-Eze 43:21 Og du skal tage Syndofferets Okse, og man skal opbrænde den paa den bestemte Plads i Huset, liden for Helligdommen.
+Eze 43:21 Og du skal tage Syndofferets Okse, og man skal opbrænde den paa den bestemte Plads i Huset, uden for Helligdommen.
 Eze 43:22 Men den anden Dag skal du ofre en Gedebuk, som er lydefri, til Syndoffer; og de skulle rense Alteret for Synd, ligesom de rensede det for Synd med Oksen.
 Eze 43:23 Naar du er færdig med at rense det for Synd, skal du ofre en ung Okse, lydefri, og en lydefri Væder af Hjorden.
 Eze 43:24 Og du skal føre dem frem for Herrens Ansigt; og Præsterne skulle kaste Salt paa dem og ofre dem til et Brændoffer for Herren.
@@ -21674,9 +21674,9 @@ Eze 44:6 Og du skal sige til de genstridige, til Israels Hus: Saa siger den Herr
 Eze 44:7 idet I have indført fremmede med uomskaaret Hjerte og uomskaaret Kød til at være i min Helligdom for at vanhellige mit Hus, naar I ofrede mit Brød: Det fede og Blodet, saa at de brøde min Pagt, foruden alle eders Vederstyggeligheder;
 Eze 44:8 og I toge ikke Vare paa, hvad der var at varetage i mine Helligdomme, men I satte nogle til at tage Vare paa, hvad jeg vilde have varetaget i min Helligdom, efter eders eget Tykke.
 Eze 44:9 Saa siger den Herre, Herre: Ingen fremmed med uomskaaret Hjerte og uomskaaret Kød skal komme i min Helligdom, ingen af alle de fremmede, som ere iblandt Israels Børn.
-Eze 44:10 Men selv Leviterne, som fjernede sig fra mig, medens Israel for vild, da det forvildede sig fra mig eftej sine Afguder, de skulle bære deres Misgerning.
+Eze 44:10 Men selv Leviterne, som fjernede sig fra mig, medens Israel for vild, da det forvildede sig fra mig efter sine Afguder, de skulle bære deres Misgerning.
 Eze 44:11 Dog skulle de tjene udi min Helligdom som Opsynsmænd ved Husets Porte og være Tjenere i Huset; de skulle slagte Brændofferet og Slagtofferet for Folket, og de skulle staa for dets Ansigt til at tjene det.
-Eze 44:12 Fordi de have tjent dem over for deres Afguder og ere blevne Israels Hus til Anstød, saa det syndede, derfor har! jeg opløftet min Haand imod dem, siger den Herre, Herre, at de skulle bære deres Misgerning.
+Eze 44:12 Fordi de have tjent dem over for deres Afguder og ere blevne Israels Hus til Anstød, saa det syndede, derfor har jeg opløftet min Haand imod dem, siger den Herre, Herre, at de skulle bære deres Misgerning.
 Eze 44:13 Og de skulle ikke komme mig nær til at gøre Præstetjeneste for mig eller til at nærme sig nogen af mine hellige Ting, de højhellige Ting; men de skulle bære deres Skam og deres Vederstyggeligheder, som de have gjort.
 Eze 44:14 Og jeg vil sætte dem til at tage Vare paa, hvad der er at varetage i Huset ved alt Arbejde der og ved alt, hvad der skal gøres.
 Eze 44:15 Men de Præster af Levi Stamme, som ere af Zadoks Børn, og som toge Vare paa, hvad der var at varetage i min Helligdom, der Israels Børn fore vild fra mig, de skulle komme mig nær til at tjene mig; og de skulle staa for mit Ansigt til at ofre mig det fede og Blodet, siger den Herre, Herre.
@@ -21684,12 +21684,12 @@ Eze 44:16 De skulle gaa ind i min Helligdom og nærme sig mit Bord til at tjene m
 Eze 44:17 Og det skal ske, naar de gaa ind ad den indre Forgaards Port, da skulle de føre sig i linnede Klæder; og ingen Uld skal komme paa dem, naar de tjene i den indre Forgaards Porte og indenfor.
 Eze 44:18 Der skal være linnede Huer paa deres Hoveder, og linnede Underklæder skulle være om deres Lænder; de skulle ikke ombinde sig, saa at de komme i Sved.
 Eze 44:19 Og naar de gaa ud i den ydre Forgaard, i den ydre Forgaard til Folket, skulle de føre sig af deres Klæder, i hvilke de gøre Tjeneste, og lægge dem i de hellige Celler, og de skulle iføre sig andre Klæder, at de ikke skulle hellige Folket med deres Klæder.
-Eze 44:20 Og de skulle ikke rage deres Hoved, ikke heller lade Haaret vokse frit; de skulle omhyggeligt klippe jieres Hovedhaar.
+Eze 44:20 Og de skulle ikke rage deres Hoved, ikke heller lade Haaret vokse frit; de skulle omhyggeligt klippe deres Hovedhaar.
 Eze 44:21 Og Vin skal ingen af Præsterne drikke, naar de gaa ind i den indre Forgaard.
-Eze 44:22 Og de skulle ikke tage sig en Enke eller fraskilt til Hustru; men Jomfruer, af Israels Hus's Sæd, og den Enke, som er Enke efter en Præst, maa de tage.
+Eze 44:22 Og de skulle ikke tage sig en Enke eller fraskilt til Hustru; men Jomfruer af Israels Hus's Sæd, og den Enke, som er Enke efter en Præst, maa de tage.
 Eze 44:23 Og de skulle lære mit Folk at gøre Skel imellem det hellige og det vanhellige og kundgøre dem Forskellen imellem det urene og det rene.
 Eze 44:24 Og ved en Trætte skulle de staa som Dommere, og efter mine Domme skulle de dømme i den; og mine Love og mine Skikke ved alle mine Højtider skulle de varetage, og mine Sabbater skulle de helligholde.
-Eze 44:25 Og ingen, af dem skal gaa til et Lig, saa at de blive urene; dog for en Fader og for en Moder og for en Søn og for en Datter, for en Broder i og for en Søster, som ikke har været gift, tør de blive urene.
+Eze 44:25 Og ingen af dem skal gaa til et Lig, saa at de blive urene; dog for en Fader og for en Moder og for en Søn og for en Datter, for en Broder og for en Søster, som ikke har været gift, tør de blive urene.
 Eze 44:26 Men efter hans Renselse skal man tælle ham syv Dage.
 Eze 44:27 Og paa den Dag, han gaar ind i Helligdommen, i den indre Forgaard, for at gøre Tjeneste i Helligdommen, skal han ofre sit Syndoffer, siger den Herre, Herre.
 Eze 44:28 Og det skal være deres Arvelod: Jeg er deres Arv; og I skulle ikke give dem Ejendom i Israel: Jeg er deres Ejendom.
@@ -21727,7 +21727,7 @@ Eze 46:3 Og Landets Folk skal tilbede ved Indgangen til samme Port, paa Sabbater
 Eze 46:4 Og Brændofferet, som Fyrsten skal bringe Herren paa Sabbatens Dag, skal bestaa i seks lydefrie Lam og een lydefri Væder.
 Eze 46:5 Og Madofferet skal være en Efa med Væderen, og med Lammene et Madoffer, som hans Haand maatte give; og en Hin Olie til hver Efa.
 Eze 46:6 Men paa Nymaanedens Dag skal det være en lydefri ung Okse og seks Lam og en Væder, de skulle være lydefrie.
-Eze 46:7 Og som Madoffer skal han ofre en Efa med Oksen og en Efa med Væderen, men med Lammene saa meget, som hans Haand formaar; og at Olie en Hin til hver Efa.
+Eze 46:7 Og som Madoffer skal han ofre en Efa med Oksen og en Efa med Væderen, men med Lammene saa meget, som hans Haand formaar; og af Olie en Hin til hver Efa.
 Eze 46:8 Og naar Fyrsten gaar ind, skal han gaa ind ad Vejen til Portens Forhal og gaa ud ad samme Vej.
 Eze 46:9 Og naar Folket i Landet gaar ind for Herrens Ansigt paa Højtiderne, skal den, som gaar ind ad den nordre Ports Vej for at tilbede, gaa ud ad den søndre Ports Vej; og den, som gaar ind ad den søndre Ports Vej, skal gaa ud ad den nordre Ports Vej; man skal ikke gaa tilbage ad den Ports Vej, som man gik ind ad, men de skulle gaa ud hver lige frem for sig.
 Eze 46:10 Og Fyrsten, han skal gaa ind midt iblandt dem, naar de gaa ind, og naar de gaa ud, skulle de gaa ud sammen.
@@ -21753,8 +21753,8 @@ Eze 47:5 Og han maalte atter tusinde, da var det blevet en Bæk, hvilken jeg ikke
 Eze 47:6 Og han sagde til mig: Har du set det, du Menneskesøn! og han ledte mig og førte mig tilbage langs Bækkens Bred.
 Eze 47:7 Idet han førte mig tilbage, se, da stod der saare mange Træer ved Bredden af Bækken, paa denne og paa den anden Side.
 Eze 47:8 Og han sagde til mig: Dette Vand gaar ud imod det østre Grænseland og strømmer ned over den slette Mark og gaar ud i Havet ; naar det er ført ud i Havet, da blive Vandene friske.
-Eze 47:9 Og det skal ske, at alt levende, som vrimler over alt, hvor Bækken kommer hen, skal leve op, og at der skal være saare mange Fisk; thi naar disse Vande ere komne derhen, blive hine friske, og der bliver Liv over alt, hvor Bækken kommer hen,
-Eze 47:10 Og det skal ske, at der skal stak Fiskere ved Siden deraf, fra En-Gedi og indtil En-Eglaim skal der udbredes Fiskegarn, der skal være Fisk der efter sit Slags, som Fisk i det store Hav , saare mange.
+Eze 47:9 Og det skal ske, at alt levende, som vrimler over alt, hvor Bækken kommer hen, skal leve op, og at der skal være saare mange Fisk; thi naar disse Vande ere komne derhen, blive hine friske, og der bliver Liv over alt, hvor Bækken kommer hen.
+Eze 47:10 Og det skal ske, at der skal staa Fiskere ved Siden deraf, fra En-Gedi og indtil En-Eglaim skal der udbredes Fiskegarn, der skal være Fisk der efter sit Slags, som Fisk i det store Hav , saare mange.
 Eze 47:11 Men Sumpene derved og Grøfterne derved, de skulle ikke blive friske, de ere givne hen til Salt.
 Eze 47:12 Og ved Bækken, ved dens Bred, paa denne og paa den anden Side skal der opvokse alle Haande Træer med spiselig Frugt, der skal ikke falde et Blad af noget, og Frugten derpaa skal ikke faa Ende, hver Maaned skulle de bære ny Frugt, thi deres Vande gaa ud fra Helligdommen; og Frugten deraf skal være til Spise og Bladene deraf til Lægedom.
 Eze 47:13 Saa siger den Herre, Herre: Dette er Landemærket, efter hvilket I skulle tage Landet til Arv, for de tolv Israels Stammer; Josef skal have tvende Parter.
@@ -21770,16 +21770,16 @@ Eze 47:22 Og det skal ske, at I skulle udlodde det til Arv for eder og for de fr
 Eze 47:23 Og det skal ske i den Stamme, hvor den fremmede opholder sig, der skulle I give ham Arv, siger den Herre, Herre.
 Eze 48:1 Og disse ere Navnene paa Stammerne: Fra Enden imod Nord, langs Vejen til Hethlon, i Retning af Hamath, Hazar-Enon, Damaskus's Landemærke imod Nord til, langs Hamath, dette fra den østre til den vestre Side, skal være Dans — een Lod;
 Eze 48:2 og ved Siden af Dans Landemærke, fra den østre Side indtil den vestre Side, skal være Asers — een Lod;
-Eze 48:3 og ved Siden af Asers Landemærke, fra den østre Side indtil den vestre Side Nafthalis — een Lod;
-Eze 48:4 og ved Siden af Nafthalis Landemærke, fra dep østre Side indtil den vestre Side, Manasses — een Lod;
-Eze 48:5 og ved Siden af Manasses Landemærke, fra den, østre Side, indtil den vestre Side, Efraims — een Lod;
+Eze 48:3 og ved Siden af Asers Landemærke, fra den østre Side indtil den vestre Side, Nafthalis — een Lod;
+Eze 48:4 og ved Siden af Nafthalis Landemærke, fra den østre Side indtil den vestre Side, Manasses — een Lod;
+Eze 48:5 og ved Siden af Manasses Landemærke, fra den østre Side, indtil den vestre Side, Efraims — een Lod;
 Eze 48:6 og ved Siden af Efraims Landemærke, fra den østre Side indtil den vestre Side, Rubens — een Lod;
 Eze 48:7 og ved Siden af Rubens Landemærke, fra den østre Side indtil den vestre Side, Judas — een Lod;
 Eze 48:8 og ved Siden af Judas Landemærke, fra den østre Side indtil den vestre Side, skal den Gave ligge, som I forlods skulle udtage, fem og tyve Tusinde Maal i Bredden, og i Længden som een af Lodderne, fra den østre Side indtil den vestre Side, og Helligdommen skal være midt derudi.
 Eze 48:9 Gaven, som I skulle udtage til Herren, skal være i Længden fem og tyve Tusinde Maal og i Bredden ti Tusinde.
 Eze 48:10 Og de, der skulle have den hellige Gave, ere Præsterne; de skulle have imod Norden fem og tyve Tusinde Maal og imod Vesten i Bredden ti Tusinde og imod Østen i Bredden ti Tusinde og imod Sønden i Længden fem og tyve Tusinde; og Herrens Helligdom skal være midt derudi;
 Eze 48:11 Præsterne, hver den af Zadoks Børn, som er helliget, de, som toge Vare paa, hvad jeg vilde have varetaget, og som ikke fore vild, der Israels Børn fore vild, saaledes som Leviterne fore vild,
-Eze 48:12 dem skal en Del af Gaven af Landet tilhøreren højhellig Del ved Siden af Leviternes Landemærke.
+Eze 48:12 dem skal en Del af Gaven af Landet tilhøre, en højhellig Del ved Siden af Leviternes Landemærke.
 Eze 48:13 Men Leviterne skulle have ved Siden af Præsternes Landemærke fem og tyve Tusinde Maal i Længden og ti Tusinde i Bredden; hver Længde skal være fem og tyve Tusinde Maal og Bredden ti Tusinde.
 Eze 48:14 Og de skulle intet sælge deraf, og ingen skal bortbytte noget deraf; det er som en Førstegrøde af Landet og maa ikke gaa over til andre; thi det er helliget Herren.
 Eze 48:15 Men de fem Tusinde Maal, som blive tilovers i Bredden, de forreste af de fem og tyve Tusinde, skulle være almindeligt Land for Staden til Beboelse og til fri Plads; og Staden skal ligge midt derudi.
@@ -21792,7 +21792,7 @@ Eze 48:21 Men Fyrsten skal have det, som er blevet tilovers paa denne og paa den
 Eze 48:22 Og hvad der er fra Leviternes Ejendom af og fra Stadens Ejendom af, hvilken kommer til at ligge midt imellem det, der tilfalder Fyrsten, hvad der ligger imellem Judas Landemærke og Benjamins Landemærke, det skal være Fyrstens.
 Eze 48:23 Og de øvrige Stammer ere: Fra den østre Side indtil den vestre Side, Benjamins — een Lod;
 Eze 48:24 og ved Siden af Benjamins Landemærke, fra den østre Side indtil den vestre Side, Simeons — een Lod;
-Eze 48:25 og ved Siden af Simeons Lande mærke, fra den østre Side indtil den vestre Side, Isaskars — een Lod;
+Eze 48:25 og ved Siden af Simeons Landemærke, fra den østre Side indtil den vestre Side, Isaskars — een Lod;
 Eze 48:26 og ved Siden af Isaskars Landemærke, fra den østre Side indtil den vestre Side, Sebulons — een Lod;
 Eze 48:27 og ved Siden af Sebulons Landemærke, fra den østre Side indtil den vestre Side, Gads — een Lod;
 Eze 48:28 og ved Siden af Gads Landemærke, ved den søndre Side imod Sønden, der skal Landsgrænsen være fra Thamar af til Kivevandet ved Kades til Bækken ud imod det store Hav.
@@ -21811,7 +21811,7 @@ Dan 1:5 Og Kongen bestemte, at de Dag for Dag skulde have deres Del af Kongens M
 Dan 1:6 Iblandt dem var der af Judas Børn: Daniel, Hanania, Misael og Asaria.
 Dan 1:7 Og Overhofmesteren gav dem Navne: Daniel kaldte han Beltsazar og Hanania Sadrak og Misael Mesak og Asaria Abed-Nego.
 Dan 1:8 Men Daniel satte sig for i sit Hjerte, at han ikke vilde besmitte sig med Kongens Mad og med den Vin, som han drak; derfor begærede han af Overhofmesteren, at han maatte blive fri for at besmitte sig.
-Dan 1:9 Og Gud lod Daniel finde Naade, og Barmhjertighed for Overhofmesterens Ansigt.
+Dan 1:9 Og Gud lod Daniel finde Naade og Barmhjertighed for Overhofmesterens Ansigt.
 Dan 1:10 Og Overhofmesteren sagde til Daniel: Jeg frygter for min Herre, Kongen, som har bestemt eders Mad og eders Drikke; thi hvorfor skulde han se, at eders Ansigter saa slettere ud end Drengenes, som ere jævnaldrende med eder, og I bringe Skyld over mit Hoved hos Kongen!
 Dan 1:11 Da sagde Daniel til den Melzar , som Overhofmesteren havde sat over Daniel, Hanania, Misael og Asaria:
 Dan 1:12 Forsøg dog med dine Tjenere i ti Dage; og lad dem give os Grøntsager at æde og Vand at drikke;
@@ -21848,7 +21848,7 @@ Dan 2:21 Og han forandrer Tider og Timer, han afsætter Konger og indsætter Konge
 Dan 2:22 Han aabenbarer de dybe og skjulte Ting; han ved, hvad der er i Mørket, og Lyset bor hos ham.
 Dan 2:23 Dig, mine Fædres Gud! lover og priser jeg, thi du har givet mig Visdom og Styrke; og du har nu kundgjort mig det, vi begærede af dig, thi du har kundgjort os Kongens Sag.
 Dan 2:24 Derfor gik Daniel ind til Ariok, som Kongen havde befalet at udrydde de vise i Babel; han gik hen og sagde saaledes til ham: Udryd ikke de vise i Babel; før mig ind for Kongen, saa vil jeg kundgøre Kongen Udtydningen.
-Dan 2:25 Da førte Ariok Daniel hastelig: ind for Kongen og sagde saaledes til ham: Jeg har fundet iblandt det bortførte Folk af Juda en Mand, som vil kundgøre Kongen Udtydningen.
+Dan 2:25 Da førte Ariok Daniel hastelig ind for Kongen og sagde saaledes til ham: Jeg har fundet iblandt det bortførte Folk af Juda en Mand, som vil kundgøre Kongen Udtydningen.
 Dan 2:26 Kongen svarede og sagde til Daniel, hvis Navn var Beltsazar: Er du i Stand til at kundgøre mig den Drøm, som jeg saa, og Udtydningen derpaa?
 Dan 2:27 Daniel svarede Kongen og sagde: Hemmeligheden som Kongen begærer, kunne de vise, Besværgerne, Spaamændene og Sandsigerne ikke kundgøre Kongen.
 Dan 2:28 Men der er en Gud i Himmelen, som aabenbarer hemmelige Ting, han har kundgjort Kong Nebukadnezar, hvad der skal ske i de sidste Dage; din Drøm og dit Hoveds Syner paa dit Leje ere disse:
@@ -21863,14 +21863,14 @@ Dan 2:36 Det er Drømmen, og Udtydningen derpaa skulle vi sige Kongen.
 Dan 2:37 Du, Konge, Kongernes Konge, hvem Himmelens Gud har givet Riget, Magten og Styrken og Æren,
 Dan 2:38 og har allesteds, hvor Mennesker bo, Dyrene paa Marken og Fuglene under Himmelen, givet dem i din Haand og ladet dig herske over dem alle: Du selv er Guldhovedet.
 Dan 2:39 Og efter dig skal opkomme et andet Rige, ringere end dit, og et tredje Rige endnu, af Kobber, som skal herske over hele Jorden.
-Dan 2:40 Og et fjerde Rige skal være stærkt som Jernet; eftersom Jernet knuser og sønderslaar alt, skal det som Jernet der sønderslaar, knuse og sønderslaa alle hine.
+Dan 2:40 Og et fjerde Rige skal være stærkt som Jernet; eftersom Jernet knuser og sønderslaar alt, skal det som Jernet, der sønderslaar, knuse og sønderslaa alle hine.
 Dan 2:41 Men at du saa Fødderne og Tæerne til Dels at være af Pottemagerler og til Dels af Jern, betyder, at det skal blive et delt Rige, og at der skal blive noget af Jernets Styrke derudi, efterdi du saa, at Jernet var blandet med Leret.
 Dan 2:42 Og at Tæerne paa Fødderne vare til Dels af Jern og til Dels af Ler, betyder, at Riget for en Del skal være stærkt og for en Del skrøbeligt.
 Dan 2:43 At du saa Jernet blandet med Leret, betyder, at de skulle blande sig ved Slægtskabsforbindelser, men dog ikke indbyrdes holde sammen; se, ligesom Jernet ikke kan blandes med Leret.
 Dan 2:44 Men i disse Kongers Dage skal Himmelens Gud oprette et Rige, som i al Evighed ikke skal forgaa, og hvis Regering ikke skal overlades til noget andet Folk; det skal knuse og tilintetgøre alle hine Riger; men selv skal det bestaa evindelig,
 Dan 2:45 efterdi du saa, at en Sten blev løsrevet fra Bjerget, og det ikke ved Hænder, og at den knuste Jernet, Kobberet, Leret, Sølvet og Guldet. Den store Gud har ladet Kongen vide, hvad der skal ske herefter, og Drømmen staar fast, og Udtydningen derpaa er vis.
 Dan 2:46 Da faldt Kong Nebukadnezar paa sit Ansigt og nedbøjede sig for Daniel, og han befalede, at man skulde ofre ham Madofre og Røgelse.
-Dan 2:47 Kongen svarede Daniel og sagde: Sandt er det, at eders Gud, han er en Gud over Guder og en Herre ovør Konger, og Hemmeligheders Aabenbarer, efterdi du har kunnet aabenbare denne Hemmelighed.
+Dan 2:47 Kongen svarede Daniel og sagde: Sandt er det, at eders Gud, han er en Gud over Guder og en Herre over Konger, og Hemmeligheders Aabenbarer, efterdi du har kunnet aabenbare denne Hemmelighed.
 Dan 2:48 Da gjorde Kongen Daniel stor og gav ham mange store Gaver og gjorde ham til Fyrste over hele Landskabet Babel og til øverste Forstander for alle de vise i Babel.
 Dan 2:49 Og Daniel begærede af Kongen, at han til Bestyrelsen over Landskabet Babel vilde beskikke Sadrak, Mesak og Abed-Nego; men Daniel blev ved Kongens Hof.
 Dan 3:1 Kong Nebukadnezar lod gøre et Billede af Guld, dets Højde var tresindstyve Alen og dets Bredde seks Alen; han oprejste det i Dalen Dura, i Landskabet Babel.
@@ -21899,7 +21899,7 @@ Dan 3:23 Men disse tre Mænd, Sadrak, Mesak og Abed-Nego, faldt bundne midt i den
 Dan 3:24 Da forfærdedes Nebukadnezar og stod hastelig op; han svarede og sagde til sine Raadsherrer: Lode vi ikke kaste tre Mænd bundne midt i Ilden? De svarede og sagde til Kongen: Visselig, o Konge!
 Dan 3:25 Han svarede og sagde: Se, jeg ser fire Mænd, som gaa løse midt i Ilden, og der er intet beskadiget paa dem; og den fjerdes Udseende er ligesom en Gudesøns.
 Dan 3:26 Da traadte Nebukadnezar frem for Mundingen af den brændende Ilds Ovn; han svarede og sagde: Sadrak, Mesak og Abed-Nego, I den højeste Guds Tjenere! gaar ud og kommer hid; da gik Sadrak, Mesak og Abed-Nego ud midt af Ilden.
-Dan 3:27 Og Statholderne, Befalingsmændene og Landshøvdingerne og Kongens Raadsherrer samledes; de saa disse Mænd, at Ilden ingen Magt havde haft over deres Legemer, og at Haaret paa deres Hoveder ikke var svedet og deres Undertøj ikke forandret og at Lugt af Ild ikke var gaaet over dem.
+Dan 3:27 Og Statholderne, Befalingsmændene og Landshøvdingerne og Kongens Raadsherrer samledes; de saa disse Mænd, at Ilden ingen Magt havde haft over deres Legemer, og at Haaret paa deres Hoveder ikke var svedet og deres Undertøj ikke forandret, og at Lugt af Ild ikke var gaaet over dem.
 Dan 3:28 Og Nebukadnezar svarede og sagde: Lovet være Sadraks, Mesaks og Abed-Negos Gud! som sendte sin Engel og reddede sine Tjenere, som forlode sig paa ham; og de handlede imod Kongens Ord og hengave deres Legemer, fordi de ikke vilde dyrke eller tilbede nogen Gud, uden deres Gud.
 Dan 3:29 Og der er givet Befaling af mig, at den af ethvert Folk, Stamme og Tungemaal, som i Tale forser sig imod Sadraks, Mesaks og Abed-Negos Gud, skal hugges i Stykker og hans Hus gøres til en Møgdynge, fordi der er ingen anden Gud, der saaledes kan frelse.
 Dan 3:30 Da lod Kongen Sadrak, Mesak og Abed-Nego nyde Lykke i Landskabet Babel.
@@ -21924,7 +21924,7 @@ Dan 4:18 Denne Drøm saa jeg, Kong Nebukadnezar; men du, Beltsazar! sig Udtydning
 Dan 4:19 Da stod Daniel, hvis Navn er Beltsazar, en Stund forskrækket, og hans Tanker forfærdede ham; men Kongen svarede og sagde: Beltsazar! lad Drømmen og Udtydningen ikke forfærde dig; Beltsazar svarede og sagde: Min Herre! Drømmen gælde dine Hadere og dens Udtydning dine Fjender!
 Dan 4:20 Træet, som du saa, og som blev stort og stærkt, og hvis Højde rakte til Himmelen, og som saas over al Jorden,
 Dan 4:21 og hvorpaa der var dejligt Løv og megen Frugt og Føde for alt, som var derpaa, under hvilket Dyrene paa Marken boede, og i hvis Grene Himmelens Fugle byggede:
-Dan 4:22 Dette er dig selv, o Konge! i thi du er bleven stor og stærk; og din Magt er bleven stor og rækker til Himmelen og dit Herredømme til Jordens Ende.
+Dan 4:22 Dette er dig selv, o Konge! thi du er bleven stor og stærk; og din Magt er bleven stor og rækker til Himmelen og dit Herredømme til Jordens Ende.
 Dan 4:23 Men at Kongen saa en Vægter, det er en hellig, fare ned fra Himmelen og sige: Hugger Træet om og ødelægger det, dog lader Stubben med dens Rødder blive tilbage i Jorden, men i Baand af Jern og Kobber, i Markens Græs; og lad ham vædes af Himmelens Dug og hans Del være med Dyrene paa Marken, indtil syv Tider omskiftes over ham,
 Dan 4:24 da er dette Udtydningen, o Konge! og dette er den Højestes besluttede Raad, som skal komme over min Herre, Kongen:
 Dan 4:25 Nemlig, man skal støde dig ud fra Folk, og din Bolig skal være hos Dyrene paa Marken, og man skal lade dig æde Urter som Øksne og vædes af Himmelens Dug, og syv Tider skulle omskiftes over dig, indtil du kender, at den Højeste har Magt over Menneskens Rige og giver det til, hvem han vil.
@@ -21971,13 +21971,13 @@ Dan 5:28 »Feres«, adsplittet er dit Rige og givet Mederne og Perserne.
 Dan 5:29 Da gav Belsazar Befaling, og de klædte Daniel i Purpur, med en Halskæde om hans Hals, og de udraabte om ham, at han skulde være den tredjemægtige i Riget.
 Dan 5:30 I samme Nat blev Belsazar, Kaldæernes Konge, ihjelslagen.
 Dan 6:1 Og Mederen Darius modtog Riget, da han omtrent var to og tresindstyve Aar gammel.
-Dan 6:2 Det, behagede Darius at beskikke over Riget hundrede og tyve Statholdere, som skulde være i det hele Rige,
+Dan 6:2 Det behagede Darius at beskikke over Riget hundrede og tyve Statholdere, som skulde være i det hele Rige,
 Dan 6:3 og for disse tre overordnede, af hvilke Daniel var een, til hvilke disse Statholdere skulde aflægge Regnskab, at Kongen ikke skulde lide Skade.
 Dan 6:4 Da overgik denne Daniel de overordnede og Statholderne, fordi der var en ypperlig Aand i ham; og Kongen tænkte paa at beskikke ham over det hele Rige.
 Dan 6:5 Da søgte de overordnede og Statholderne at finde Sag imod Daniel, hvad Regeringen angik; men de kunde ingen Sag eller slet Handling finde, fordi han var tro, og ingen Forseelse eller slet Handling fandtes hos ham.
 Dan 6:6 Da sagde disse Mænd: Vi finde ingen Sag imod denne Daniel, med mindre vi kunde finde den imod ham i hans Guds Lov.
 Dan 6:7 Da kom disse overordnede og Statholdere i Hobetal til Kongen, og de sagde saaledes til ham: Kong Darius leve evindelig!
-Dan 6:8 Alle overordnede i Riget, Befalingsmændende og Statholderne, Raadsherrerne og Landshøvdingerne have raadslaget med hverandre om, at Kongen skal stadfæste en Befaling og bekræfte et Forbud, at enhver, som beder en Bøn til nogen Gud eller noget Menneske i tredive Dage uden til dig, o Konge! skal kastes i Løvekulen.
+Dan 6:8 Alle overordnede i Riget, Befalingsmændende og Statholderne, Raadsherrerne og Landshøvdingerne have raadslaget med hverandre om, at Kongen skal stadfæste en Befaling og bekræfte et Forbud, at hver, som beder en Bøn til nogen Gud eller noget Menneske i tredive Dage uden til dig, o Konge! skal kastes i Løvekulen.
 Dan 6:9 Nu, o Konge! skal du stadfæste Forbudet og opsætte det skriftligt, at det ikke kan forandres, efter Medernes og Persernes Lov, som ikke kan tilbagekaldes.
 Dan 6:10 Derfor opsatte Kong Darius Skriftet og Forbudet.
 Dan 6:11 Og der Daniel havde faaet at vide, at Skriftet var opsat, gik han ind i sit Hus, hvilket paa sin øverste Sal havde Vinduer aabne imod Jerusalem; og tre Tider om Dagen faldt han paa sine Knæ og bad og lovpriste Gud, alt som han havde gjort tilforn.
@@ -21995,7 +21995,7 @@ Dan 6:22 Da talte Daniel med Kongen: Kongen leve evindelig!
 Dan 6:23 Min Gud sendte sin Engel og lukkede Løvernes Mund, saa at de ikke have gjort mig Skade, efterdi jeg er funden uskyldig for ham, og heller ikke for dig har jeg begaaet nogen Misgerning, o Konge!
 Dan 6:24 Da blev Kongen meget glad og befalede, at man skulde drage Daniel op af Kulen; og Daniel blev dragen op af Kulen, og der blev ingen Skade funden paa ham, fordi han havde troet paa sin Gud.
 Dan 6:25 Da gav Kongen Befaling, og man førte disse Mænd, som havde anklaget Daniel, frem og kastede dem og deres Børn og deres Hustruer i Løvekulen; og de kom ikke til Bunden i Kulen, førend Løverne bemægtigede sig dem og knuste alle deres Ben.
-Dan 6:26 Da skrev Kong Darius til alle Folk, Stammer og Tungemaal, som boede, paa den hele Jord: Eders Fred være mangfoldig!
+Dan 6:26 Da skrev Kong Darius til alle Folk, Stammer og Tungemaal, som boede paa den hele Jord: Eders Fred være mangfoldig!
 Dan 6:27 Af mig er givet Befaling, at man udi mit hele Riges Herredom skal skælve og frygte for Daniels Gud; thi han er den levende Gud, og den, som bliver evindelig, og hans Rige er et uforkrænkeligt, og hans Herredømme varer til Verdens Ende.
 Dan 6:28 Han er den, som udfrier, og som redder og gør Tegn og underfulde Ting i Himmelen og paa Jorden, han, som udfriede Daniel af Løvernes Vold.
 Dan 6:29 Og denne Daniel havde Lykke under Darius's Regering og under Perseren Kyrus's Regering.
@@ -22004,10 +22004,10 @@ Dan 7:2 Daniel fortalte og sagde: Jeg saa i mit Syn om Natten, og se, de fire Ve
 Dan 7:3 Og der opsteg fire store Dyr af Havet, det ene anderledes end det andet.
 Dan 7:4 Det første var som en Løve, og det havde Vinger som en Ørn; jeg saa til, indtil dets Vinger bleve afrevne, og det blev rettet i Vejret fra Jorden og rejst op paa Fødderne som et Menneske, og det blev givet et Menneskehjerte.
 Dan 7:5 Og se, et andet Dyr, næstefter, ligt en Bjørn, og det rejste sig til den ene Side, og det havde tre Ribben i sin Mund, imellem sine Tænder; og man sagde saaledes til det: Staa op, æd meget Kød!
-Dan 7:6 Derefter saa jeg, og se, et andet Dyr, ligt en Parder, og det havde fire Vinger som af en Fugl paa sin Ryg; og dette. Dyr havde fire Hoveder, og der blev givet det Magt.
-Dan 7:7 Derefter saa jeg i Nattesynerne og se, et fjerde Dyr, frygteligt og forfærdeligt og meget stærkt, og det havde store Jerntænder, det aad og knuste og nedtraadte det overblevne med sine Fødder; og det var anderledes end alle de Dyr, som havde været før det, og det havde ti Horn.
+Dan 7:6 Derefter saa jeg, og se, et andet Dyr, ligt en Parder, og det havde fire Vinger som af en Fugl paa sin Ryg; og dette Dyr havde fire Hoveder, og der blev givet det Magt.
+Dan 7:7 Derefter saa jeg i Nattesynerne, og se, et fjerde Dyr, frygteligt og forfærdeligt og meget stærkt, og det havde store Jerntænder, det aad og knuste og nedtraadte det overblevne med sine Fødder; og det var anderledes end alle de Dyr, som havde været før det, og det havde ti Horn.
 Dan 7:8 Jeg agtede nøje paa Hornene, og se, et andet lidet Horn skød op imellem dem, og tre af de forrige Horn bleve oprykkede for det; og se, der var Øjne som Menneskeøjne paa dette Horn, og en Mund, som talte store Ting.
-Dan 7:9 Jeg blev ved at se, indtil Stole bleve satte frem, og den Gamle af Dage satte sig; hans Klæder vare hvide som Sne og Haaret paa hans Hoved som ren Uld, hans Stol var Ildsluer, Hjulene derpaa brøndende Ild.
+Dan 7:9 Jeg blev ved at se, indtil Stole bleve satte frem, og den Gamle af Dage satte sig; hans Klæder vare hvide som Sne og Haaret paa hans Hoved som ren Uld, hans Stol var Ildsluer, Hjulene derpaa brændende Ild.
 Dan 7:10 En Strøm af Ild brød frem og gik ud fra ham; tusinde Gange tusinde tjente ham, og ti Tusinde Gange ti Tusinde stode for ham; Retten blev sat og Bøgerne opladte.
 Dan 7:11 Da saa jeg til, fordi man havde hørt de store Ord, som Hornet havde talt; jeg saa til, indtil Dyret blev ihjelslaget og dets Legeme lagt øde og givet hen til at brændes i Ilden.
 Dan 7:12 Og hvad de øvrige Dyr angaar, var deres Magt forbi, og dem havde det været givet, hvor længe de skulde leve til Tid og Stund.
@@ -22026,13 +22026,13 @@ Dan 7:24 Men de ti Horn betyde, at der af samme Rige skal opstaa ti Konger; og e
 Dan 7:25 Og han skal tale Ord imod den Højeste og undertrykke den Højestes hellige og tænke paa at forandre Tider og Lov, og de skulle gives i hans Haand indtil een Tid og Tider og en halv Tid.
 Dan 7:26 Derefter skal Retten sættes, og man skal fratage ham hans Magt for at ødelægge og tilintetgøre den indtil Enden.
 Dan 7:27 Men Riget og Herredømmet og Rigernes Magt under al Himmelen skal gives til et Folk af den Højestes hellige; hans Rige er et evigt Rige, og alle Herredømmer skulle tjene og lyde ham.
-Dan 7:28 Hermed var Ordet til Ende. Mig, Daniel, forvirrede mine Tanker meget, og jeg Skiftede Farve; men jeg bevarede Ordet i mit Hjerte.
+Dan 7:28 Hermed var Ordet til Ende. Mig, Daniel, forvirrede mine Tanker meget, og jeg skiftede Farve; men jeg bevarede Ordet i mit Hjerte.
 Dan 8:1 I Kong Belsazars Regerings tredje Aar viste der sig for mig, Daniel, et Syn, efter det, som havde vist sig for mig i Begyndelsen.
 Dan 8:2 Og jeg saa i Synet, og det skete, idet jeg saa, at jeg var i Borgen Susan, i Landskabet Elam, og jeg saa i Synet, og jeg var ved Floden Ulaj.
 Dan 8:3 Og jeg opløftede mine Øjne og saa, og se, en Væder stod lige for Floden, og den havde to Horn; og Hornene vare høje, og det ene højere end det andet, og det højeste voksede op sidst.
 Dan 8:4 Jeg saa, at Væderen stangede imod Vesten og Norden og Sønden, og der kunde intet Dyr staa for dens Ansigt, der var ej heller nogen, som kunde redde af dens Vold, og den gjorde efter sin Villie og blev mægtig.
 Dan 8:5 Og jeg gav Agt, og se, en Gedebuk kom fra Vesten hen over al Jorden, og den rørte ikke ved Jorden; og Gedebukken havde et anseligt Horn imellem sine Øjne.
-Dan 8:6 Og den kom til Væderen, som havde de to Horn, og som jeg havde set staa lige for Floden, og den løb imod deri i sin Krafts Hidsighed.
+Dan 8:6 Og den kom til Væderen, som havde de to Horn, og som jeg havde set staa lige for Floden, og den løb imod den i sin Krafts Hidsighed.
 Dan 8:7 Og jeg saa den, at den kom nær hen til Væderen og blev forbitret paa den og slog Væderen og sønderbrød dens to Horn, og der var ingen Kraft i Væderen til at staa for dens Ansigt; og den kastede den til Jorden og nedtraadte den, og der var ingen, som kunde redde Væderen af dens Vold.
 Dan 8:8 Og Gedebukken blev saare mægtig; men som den stod i sin Styrke, blev det store Horn sønderbrudt, og i Stedet derfor opvoksede fire anselige Horn imod Himmelens fire Vejr;
 Dan 8:9 og fra det ene af dem fremskød eet Horn, i Førstningen lidet, men det blev overmaade stort imod Sønden og imod Østen og imod det herlige Land.
@@ -22049,19 +22049,19 @@ Dan 8:19 Og han sagde: Se, jeg vil kundgøre dig, hvad der skal ske i Vredens sid
 Dan 8:20 Den Væder, som du saa, der havde de to Horn, er Kongerne af Medien og Persien.
 Dan 8:21 Og den laadne Buk er Kongen af Grækenland; og det store Horn, som var imellem dens Øjne, er den første Konge .
 Dan 8:22 Og at det blev sønderbrudt, og at fire stode frem i Stedet for det, betyder, at fire Kongeriger skulle opstaa af Folket, men ikke med hans Kraft.
-Dan 8:23 Og i deres Herredømmes sidste Tid, naar Overtræderne have gjort Maalet luldt, skal der opstaa en Konge , fræk af Ansigt og kyndig i Rænker.
-Dan 8:24 Og hans Magt skal blive stærk, dog ikke ved hans Kraft, han skal anrette uhørte Ødelæggelser og have Lykke og udføre det; og han skal ødelægge dte stærke og de helliges Folk.
+Dan 8:23 Og i deres Herredømmes sidste Tid, naar Overtræderne have gjort Maalet fuldt, skal der opstaa en Konge , fræk af Ansigt og kyndig i Rænker.
+Dan 8:24 Og hans Magt skal blive stærk, dog ikke ved hans Kraft, han skal anrette uhørte Ødelæggelser og have Lykke og udføre det; og han skal ødelægge de stærke og de helliges Folk.
 Dan 8:25 Og formedelst hans Klogskab skal Svig lykkes i hans Haand, og han skal storlig ophøje sig i sit Hjerte og ødelægge mange i deres Tryghed; og han skal staa op imod Fyrsternes Fyrste, men uden Menneskehaand skal han knuses.
 Dan 8:26 Og Synet om Aftenerne og Morgenerne, hvorom der er talt, er Sandhed; men luk du til for Synet, thi det skal ske efter mange Dage.
 Dan 8:27 Og jeg, Daniel, var aldeles afmægtig og syg i flere Dage; siden stod jeg op og udrettede Kongens Gerning; og jeg var forfærdet over Synet, og der var ingen, som forstod det.
-Dan 9:1 Idet første Aar under Darius, Ahasverus's Søn, som var af Medernes Æt og var sat til Konge over Kaldæernes Rige,
+Dan 9:1 I det første Aar under Darius, Ahasverus's Søn, som var af Medernes Æt og var sat til Konge over Kaldæernes Rige,
 Dan 9:2 i det første Aar, der han regerede, gav jeg, Daniel, i Bøgerne Agt paa Aarenes Tal, hvorom Herrens Ord var kommet til Profeten Jeremias, at nemlig halvfjerdsindstyve Aar skulde gaa hen over det ødelagte Jerusalem.
 Dan 9:3 Og jeg vendte mit Ansigt til Gud Herren for at søge Bøn og ydmyge Begæringer i Faste og Sæk og Aske.
 Dan 9:4 Og jeg bad til Herren min Gud, og bekendte og sagde: Ak, Herre, du store og forfærdelige Gud, som bevarer Pagt og Miskundhed imod dem, som elske ham, og imod dem, som holde hans Bud!
 Dan 9:5 Vi have syndet og gjort ilde, og have handlet ugudeligt og været genstridige, og vi ere vegne fra dine Bud og fra dine Love.
 Dan 9:6 Og vi hørte ikke paa dine Tjenere, Profeterne, som talte i dit Navn til vore Konger, vore Fyrster og vore Fædre og til alt Folket i Landet.
-Dan 9:7 Herre! dig hører Retfærdighed til, men Ansigts Blusel, saaledes som paa denne Dag, er for os, for Judas-Mænd og Jerusalems Indbyggere og hele Israel, dem, som ere nær, og dem, som ere langt borte, i alle de Lande, hvorhen du har fordrevet dem for deres Troløsheds Skyld, som de have begaaet imod dig.
-Dan 9:8 Herre! Ansigts Blusel er for os, for vore Konger, for vare Fyrster og for vore Fædre, fordi vi have syndet imod dig.
+Dan 9:7 Herre! dig hører Retfærdighed til, men Ansigts Blusel, saaledes som paa denne Dag, er for os, for Judas Mænd og Jerusalems Indbyggere og hele Israel, dem, som ere nær, og dem, som ere langt borte, i alle de Lande, hvorhen du har fordrevet dem for deres Troløsheds Skyld, som de have begaaet imod dig.
+Dan 9:8 Herre! Ansigts Blusel er for os, for vore Konger, for vore Fyrster og for vore Fædre, fordi vi have syndet imod dig.
 Dan 9:9 Hos Herren vor Gud er Barmhjertighed og Forladelse, thi vi have været genstridige imod ham,
 Dan 9:10 og vi have ikke hørt paa Herren vor Guds Røst, saa at vi vandrede i hans Love, som han gav for vort Ansigt ved sine Tjenere, Profeterne.
 Dan 9:11 Men al Israel har overtraadt din Lov og er afveget, idet de ikke hørte paa din Røst; derfor er der udøst over os den Forbandelse og den Ed, som er skrevet i Mose, Guds Tjeners, Lov; thi vi have syndet imod ham.
@@ -22137,7 +22137,7 @@ Dan 11:33 Og de forstandige iblandt Folket skulle undervise mange; men de skulle
 Dan 11:34 Og naar de falde, skulle de blive hjulpne med en liden Hjælp; og mange skulle slutte sig til dem med Smiger.
 Dan 11:35 Og af de forstandige skulle nogle falde, for at smelte og lutre og rense Folket indtil Endens Tid; thi endnu venter det med den til den bestemte Tid.
 Dan 11:36 Og Kongen skal gøre efter sin Villie og ophøje sig og gøre sig stor over enhver Gud og tale forfærdelige Ord imod Gudernes Gud; og han skal have Lykke, indtil Vreden er til Ende; thi hvad der er bestemt, det sker.
-Dan 11:37 Og han skal ikke agte paa sine Fædres Guder, ej heller skal han agte paa Kvinders Ynde eller paa nogen Glid; thi han skal ophøje sig storlig over alt.
+Dan 11:37 Og han skal ikke agte paa sine Fædres Guder, ej heller skal han agte paa Kvinders Ynde eller paa nogen Gud; thi han skal ophøje sig storlig over alt.
 Dan 11:38 Men Fæstningernes Gud skal han ære paa dens Sted; og den Gud, som hans Fædre ikke kendte, skal han ære med Guld og med Sølv og med dyrebare Stene og med Kostbarheder.
 Dan 11:39 Og han skal handle med de stærke Fæstninger ved den fremmede Guds Hjælp, saaledes at han skal bevise dem, som erkende ham, megen Ære, og han skal lade dem herske over mange og uddele Land til Løn.
 Dan 11:40 Men ved Endens Tid skal Kongen af Sønden stanges med ham, og Kongen af Norden skal storme frem imod ham med Vogne og med Ryttere og med mange Skibe og trænge ind i Landene og overskylle og overfare dem.
@@ -22678,7 +22678,7 @@ Mic 3:2 De hade det gode og elske det onde; de rive deres Hud af dem og deres Kø
 Mic 3:3 Det er dem, som æde mit Folks Kød og drage deres Hud af dem og bryde deres Ben; og de brede dem ud som i en Gryde og som Kød midt i en Kedel.
 Mic 3:4 Da skulle de raabe til Herren, og han skal ikke bønhøre dem; men han skal skjule sit Ansigt for dem paa den Tid, eftersom de have gjort ilde i deres Idrætter.
 Mic 3:5 Saa siger Herren imod Profeterne, som forvilde mit Folk, og som, naar de faa noget at bide med deres Tænder, forkynde Fred, men naar nogen intet giver dem for deres Mund, da prædike de Krig imod ham:
-Mic 3:6 Derfor skal det blive Nat for eder, uden Syner, og Mørke for eder; uden Spaadom; og Solen skal gaa ned over Profeterne, og Dagen skal blive sort over dem.
+Mic 3:6 Derfor skal det blive Nat for eder, uden Syner, og Mørke for eder, uden Spaadom; og Solen skal gaa ned over Profeterne, og Dagen skal blive sort over dem.
 Mic 3:7 Og Seerne skulle beskæmmes og Spaamændene blive til Skamme, og de skulle skjule Skægget over Munden alle sammen; thi der er intet Svar fra Gud.
 Mic 3:8 Men jeg er derimod fuld af Kraft, Herrens Aand, og af Ret og Styrke til at kundgøre Jakob hans Overtrædelse og Israel hans Synd.
 Mic 3:9 Hører dog dette, I Jakobs Hus's Øverster og Israels Hus's Dommere! I, som afsky Ret og gøre det lige kroget!
@@ -22687,7 +22687,7 @@ Mic 3:11 Dens Øverster dømmes for Skænk, og dens Præster lære for Betaling, og d
 Mic 3:12 Derfor, for eders Skyld, skal Zion pløjes som en Ager og Jerusalem blive til Stenhobe og Husets Bjerg til Skovhøje.
 Mic 4:1 Men det skal ske i de sidste Dage, at Herrens Hus's Bjerg skal være grundfæstet oven paa Bjergene og ophøjet over Højene, og Folkene skulle strømme til det.
 Mic 4:2 Og mange Hedninger skulle komme og sige: Kommer og lader os gaa op til Herrens Bjerg og til Jakobs Guds Hus, at han maa lære os sine Veje, og vi maa vandre paa hans Stier; thi fra Zion skal udgaa Lov og Herrens Ord fra Jerusalem.
-Mic 4:3 Og han skal dømme imellem mange Folkeslag og holde Ret for vældige Hedningefolk ud i det fjerne; og de skulle omsmede deres Sværd til Hakker og deres Spyd til Haveknive, et Folk skal ikke løfte Sværd imod et andet, og de skulle ikke ydermere øve sig i. Krig.
+Mic 4:3 Og han skal dømme imellem mange Folkeslag og holde Ret for vældige Hedningefolk ud i det fjerne; og de skulle omsmede deres Sværd til Hakker og deres Spyd til Haveknive, et Folk skal ikke løfte Sværd imod et andet, og de skulle ikke ydermere øve sig i Krig.
 Mic 4:4 Men de skulle bo, hver under sit Vintræ og under sit Figentræ, og ingen skal forfærde dem; thi den Herre Zebaoths Mund har talt.
 Mic 4:5 Thi alle Folk vandre hvert i sin Guds Navn; men vi vandre i Herrens vor Guds Navn, evindelig og altid.
 Mic 4:6 Paa denne Dag, siger Herren, vil jeg sanke det haltende og samle det fordrevne og det, som jeg har handlet ilde med.
@@ -22730,7 +22730,7 @@ Mic 6:14 Du skal æde og ikke mættes, og din Hunger skal blive i dit Indre; og br
 Mic 6:15 Du skal saa og ikke høste; du skal presse Oliven, men ikke salve dig med Olie, og Most, men ikke drikke Vin.
 Mic 6:16 Og man holder omhyggeligt ved Omris Skikke og al Akabs Hus's Gerning, og I vandre i deres Raad, paa det jeg skal gøre dig til en Forfærdelse og Indbyggerne der til en Spot, og mit Folks Forsmædelse skulle I bære.
 Mic 7:1 Ve mig! thi det er gaaet mig som ved Indsamlingen af Sommerfrugt, som ved Eftersankningen efter Vinhøsten; der er ikke en Vindrue til at æde, ingen tidlig moden Figen, som min Sjæl havde Lyst til.
-Mic 7:2 Den fromme er forsvunden fra Jorden, og der er ikke en oprigtig iblandt Menneskene: De lure alle efter Blod, jage den ene deji anden i Garnet.
+Mic 7:2 Den fromme er forsvunden fra Jorden, og der er ikke en oprigtig iblandt Menneskene: De lure alle efter Blod, jage den ene den anden i Garnet.
 Mic 7:3 Til det onde ere Hænder rede for at gøre det til Gavns; Fyrsten gør Fordring, og Dommeren er villig for Gentjeneste, og den mægtige udtaler sin Sjæls Attraa, og saa sno de det sammen.
 Mic 7:4 Den bedste af dem er som Torn, den oprigtigste som et Tjørnegærde; dine Vægteres Dag , din Hjemsøgelse kommer; nu skal deres Forstyrrelse være der.
 Mic 7:5 Tror ikke paa en Ven, forlader eder ikke paa en fortrolig: Var din Munds Døre for hende, som ligger ved din Barm.
@@ -22769,7 +22769,7 @@ Nah 2:3 Thi Herren genopretter Jakobs Herlighed ligesom Israels Herlighed; thi R
 Nah 2:4 Hans vældiges Skjold er rødligt, Heltene ere klædte i Skarlagen, Vognene funkle af Staal paa den Dag, han ruster, og Spydene svinges.
 Nah 2:5 Paa Gaderne fare Vognene som rasende, de ile af Sted paa de aabne Pladser, deres Udseende er som Blus, de løbe som Lynet.
 Nah 2:6 Han kommer sine ypperlige Mænd i Hu, de snuble under deres Gang, de haste hen til dens Mur; men Stormtaget er oprejst.
-Nah 2:7 Portene ud imod Floderne, ere opladte, og Paladset er modløst.
+Nah 2:7 Portene ud imod Floderne ere opladte, og Paladset er modløst.
 Nah 2:8 Men det er beskikket: Hun blottes, hun drages op, og hendes Piger sukke, som Duer sukke, de slaa sig paa deres Bryst.
 Nah 2:9 Og Ninive var ligesom en vandrig Fiskedam, fra de Dage af da den blev til; men de fly: »Staar! staar!« men ingen ser sig tilbage.
 Nah 2:10 Røver Sølv! røver Guld! der er dog ingen Ende paa Forraadet, en Herlighed af alle Haande kostelige Ting.
@@ -22854,7 +22854,7 @@ Hab 3:18 Men jeg vil glæde mig i Herren; jeg vil fryde mig i min Frelses Gud.
 Hab 3:19 Den Herre, Herre er min Styrke, og han gør mine Fødder som Hindernes og lader mig skride frem over mine Høje. Til Sangmesteren; med min Strengeleg.
 Zep 1:1 Herrens Ord, som kom til Zefanias, en Søn af Kusi, der var en Søn af Gedalia, der var en Søn af Amaria, der var en Søn af Ezekias, i de Dage, da Josias, Amons Søn, var Konge i Juda.
 Zep 1:2 Bort, ja, bort vil jeg tage alt af Jorden, siger Herren.
-Zep 1:3 Jeg, vil borttage Mennesker og Dyr, borttage Fuglene under Himmelen og Fiskene i Havet og alle Anstød tillige med de ugudelige; og jeg vil udrydde Menneskene af Jorden, siger Herren.
+Zep 1:3 Jeg vil borttage Mennesker og Dyr, borttage Fuglene under Himmelen og Fiskene i Havet og alle Anstød tillige med de ugudelige; og jeg vil udrydde Menneskene af Jorden, siger Herren.
 Zep 1:4 Og jeg vil udstrække min Haand imod Juda og imod alle Jerusalems Indbyggere, og jeg vil udrydde af dette Sted det overblevne af Baal, Afgudspræsternes Navn tillige med Præsterne;
 Zep 1:5 og dem, som paa Tagene tilbede Himmelens Hær, og dem, som tilbedende sværge til Herren og dog sværge ved deres Konge;
 Zep 1:6 og dem, som ere vegne bort fra Herren, og som ikke have søgt Herren og ikke spurgt efter ham.
@@ -22886,7 +22886,7 @@ Zep 2:13 Han skal og udrække sin Haand imod Norden og ødelægge Assyrien og gøre 
 Zep 2:14 Og Hjorde skulle ligge midt derudi, alle Slags vilde Dyr i Flok, baade Rørdrum og Pindsvin skulle tilbringe Natten paa dens Søjlehoveder; en Lyd af syngende høres i Vindueshullerne, Grus ligger over Dørtærskelen; thi dens Cederpanel har han blottet.
 Zep 2:15 Dette er den jublende Stad, som boede tryggelig, som sagde i sit Hjerte: Jeg, og ingen uden jeg; hvorledes er den bleven til et Øde, et Leje for vilde Dyr? hver, som gaar forbi den, vil spotte og ryste sin Haand.
 Zep 3:1 Ve den genstridige og besmittede, den Stad, som øver Undertrykkelse!
-Zep 3:2 Den hører ikke paa nogen Røst, dep annammer ikke Tugt; den forlader sig ikke paa Herren, den holder sig ikke nær til sin Gud.
+Zep 3:2 Den hører ikke paa nogen Røst, den annammer ikke Tugt; den forlader sig ikke paa Herren, den holder sig ikke nær til sin Gud.
 Zep 3:3 Dens Fyrster i dens Midte ere brølende Løver; dens Dommere ere Aftenulve, som ikke levne et Ben til om Morgenen.
 Zep 3:4 Dens Profeter ere letfærdige, troløse Mænd; dens Præster vanhellige Helligdommen, gøre Vold paa Loven.
 Zep 3:5 Herren er retfærdig i dens Midte, han gør ikke Uret; hver Morgen lader han sin Ret komme for Lyset, det fattes ikke derpaa; men den uretfærdige kender ikke til Skam.
@@ -22897,7 +22897,7 @@ Zep 3:9 Thi da vil jeg omskifte Læberne til rene for Folkene, at de alle skulle 
 Zep 3:10 Fra hin Side af Morlands Floder skulle de bringe mine Tilbedere, mit adspredte Folk, som en Gave til mig.
 Zep 3:11 Paa den Dag skal du ikke skamme dig ved nogen af dine Gerninger, med hvilke du forsyndede dig imod mig; thi da vil jeg borttage af din Midte dine stolte Pralere, og du skal ikke blive ved at ophøje dig ydermere paa mit hellige Bjerg.
 Zep 3:12 Men jeg vil lade et nedtrykt og ringe Folk blive tilovers i din Midte, og de skulle forlade sig paa Herrens Navn.
-Zep 3:13 De overblevne af Israel skulle ikke gøre Uret og ikke tale Løgn, Og der skal ikke findes en svigefuld Tunge i deres Mund; thi de skulle finde Føde og Hvile, og ingen skal forfærde dem.
+Zep 3:13 De overblevne af Israel skulle ikke gøre Uret og ikke tale Løgn, og der skal ikke findes en svigefuld Tunge i deres Mund; thi de skulle finde Føde og Hvile, og ingen skal forfærde dem.
 Zep 3:14 Syng, du Zions Datter! raab højt, o Israel! vær glad og fryd dig af dit ganske Hjerte, du Jerusalems Datter!
 Zep 3:15 Herren har borttaget Dommene over dig, har udryddet din Fjende; Herren, Israels Konge, er i din Midte, du skal ikke se Ulykke ydermere.
 Zep 3:16 Paa den Dag skal siges til Jerusalem: Frygt ikke! til Zion: Lad ikke dine Hænder synke!
@@ -22920,7 +22920,7 @@ Hag 1:12 Da adløde Serubabel, Sealthiels Søn, og Josua, Jozadaks Søn, Ypperstepr
 Hag 1:13 Da sagde Haggaj, Herrens Sendebud, som Budskab fra Herren til Folket, saaledes: Jeg er med eder, siger Herren.
 Hag 1:14 Og Herren vakte Aanden hos Serubabel, Sealthiels Søn, Judas Landshøvding, og Aanden hos Ypperstepræsten Josua, Jozadaks Søn, og Aanden hos alt det overblevne Folk, og de kom og gjorde Arbejdet paa den Herre Zebaoths, deres Guds Hus
 Hag 1:15 paa den fire og tyvende Dag i Maaneden, i den sjette Maaned, i Kong Darius's andet Aar.
-Hag 2:1 Iden syvende Maaned, paa den een og tyvende Dag i Maaneden, kom Herrens Ord ved Profeten Haggaj, saaledes:
+Hag 2:1 I den syvende Maaned, paa den een og tyvende Dag i Maaneden, kom Herrens Ord ved Profeten Haggaj, saaledes:
 Hag 2:2 Sig dog til Serubabel, Sealthiels Søn, Judas Landshøvding, og til Ypperstepræsten Josua, Jozadaks Søn, og til det overblevne Folk saalunde:
 Hag 2:3 Hvo iblandt eder er tilbage, som har set dette Hus i dets første Herlighed? og hvorledes se I det nu? er det ikke imod hint som intet for eders Øjne?
 Hag 2:4 Dog nu, vær frimodig, Serubabel! siger Herren, og vær frimodig, Josua, Jozadaks Søn, du Ypperstepræst! og vær frimodig, alt Folk i Landet! siger Herren, og arbejder; thi jeg er med eder, siger den Herre Zebaoth.
@@ -23003,13 +23003,13 @@ Zec 4:13 Og han sagde til mig: Ved du ikke, hvad disse betyde? og jeg sagde: Nej
 Zec 4:14 Da sagde han: Disse ere de to Oliebørn , som staa for al Jordens Herre.
 Zec 5:1 Og jeg opløftede atter mine Øjne og saa, og se, en flyvende Bogrulle!
 Zec 5:2 Og han sagde til mig: Hvad ser du? og jeg sagde: Jeg ser en flyvende Bogrulle, dens Længde tyve Alen og dens Bredde ti Alen.
-Zec 5:3 Da sagde han til mig: Dette er den Forbandelse, som udgaar over det ganske Land, thi hver den, som stjæler, skal efter den udryddes herfra og hver den, som sværger, skal efter den udryddes derfra.
+Zec 5:3 Da sagde han til mig: Dette er den Forbandelse, som udgaar over det ganske Land, thi hver den, som stjæler, skal efter den udryddes herfra, og hver den, som sværger, skal efter den udryddes derfra.
 Zec 5:4 Jeg lod den udgaa, siger den Herre Zebaoth, at den skal komme til Tyvens Hus og til hans Hus, som sværger falskelig ved mit Navn, og den skal blive Natten over i hans Hus og fortære det, baade dets Tømmer og dets Stene.
 Zec 5:5 Og Engelen, som talte med mig, gik ud og sagde til mig: Opløft dog dine Øjne, og se, hvad er dette, som der gaar ud?
 Zec 5:6 Og jeg sagde: Hvad er det? og han sagde: Dette er den Efa, som gaar ud; og han sagde: Dette er deres Øjemærke i hele Landet.
 Zec 5:7 Og se, et Laag af Bly blev løftet op, og da var der een Kvinde, som sad midt i Efaen;
 Zec 5:8 og han sagde: Dette er Ugudeligheden; og han kastede hende midt ned i Efaen og kastede Blyvægten for dens Munding.
-Zec 5:9 Og jeg opløftede mipe Øjne og saa, og se, to Kvinder gik frem, og der var Vind i deres Vinger, og de havde Vinger som Storkens Vinger, og de opløftede Efaen imellem Jorden og Himmelen.
+Zec 5:9 Og jeg opløftede mine Øjne og saa, og se, to Kvinder gik frem, og der var Vind i deres Vinger, og de havde Vinger som Storkens Vinger, og de opløftede Efaen imellem Jorden og Himmelen.
 Zec 5:10 Og jeg sagde til Engelen, som talte med mig: Hvor føre disse Efaen hen?
 Zec 5:11 Og han sagde til mig: Hen at bygge hende et Hus i Landet Sinear, at hun, naar det er indrettet, kan sættes der paa sit Sted.
 Zec 6:1 Og jeg opløftede atter mine Øjne og saa, og se, fire Vogne, som gik frem imellem de to Bjerge, og Bjergene vare Kobberbjerge.
@@ -23046,12 +23046,12 @@ Zec 8:2 Saa siger den Herre Zebaoth: Jeg er nidkær for Zion med en stor Nidkærhe
 Zec 8:3 Saa siger Herren: Jeg vender tilbage til Zion og vil bo midt i Jerusalem, og Jerusalem skal kaldes Sandhedens Stad, og den Herre Zebaoths Bjerg Hellighedens Bjerg.
 Zec 8:4 Saa siger den Herre Zebaoth: Der skal endnu sidde gamle Mænd og gamle Kvinder paa Jerusalems Gader, og hver med sin Stav i sin Haand for den høje Alders Skyld.
 Zec 8:5 Og Stadens Gader skulle være fulde af unge Drenge og Piger, som lege paa dens Gader.
-Zec 8:6 Saa siger, den Herre Zebaoth: Naar det vil være underligt for Øjnene af de overblevne af dette Folk i de Dage, mon det da ogsaa vil være underligt for mine Øjne? siger den Herre Zebaoth?
+Zec 8:6 Saa siger den Herre Zebaoth: Naar det vil være underligt for Øjnene af de overblevne af dette Folk i de Dage, mon det da ogsaa vil være underligt for mine Øjne? siger den Herre Zebaoth?
 Zec 8:7 Saa siger den Herre Zebaoth: Se, jeg frelser mit Folk fra Landet imod Østen og fra Landet imod Solens Nedgang.
-Zec 8:8 Og, jeg villade dem komme, og de skulle bo midt i Jerusalem; og de skulle være mit Folk, og jeg vil være deres Gud i Sandhed og i Retfærdighed.
+Zec 8:8 Og jeg vil lade dem komme, og de skulle bo midt i Jerusalem; og de skulle være mit Folk, og jeg vil være deres Gud i Sandhed og i Retfærdighed.
 Zec 8:9 Saa siger den Herre Zebaoth: Eders Hænder vorde stærke! I, som høre i disse Dage disse Ord af de Profeters Mund, som vare der paa den Dag, da Grundvolden til den Herre Zebaoths Hus til Templet blev lagt, saa at det byggedes!
 Zec 8:10 Thi før hine Dage var der ingen Løn for Menneskene og ingen Løn for Dyrene; og for den, som drog ud, og for den, som drog ind, var ikke Fred for Fjenden; og jeg lod alle Mennesker løs, hver imod sin Næste.
-Zec 8:11 Men hu vil jeg ikke være som i de forrige Dage for det overblevne af dette Folk, siger den Herre Zebaoth.
+Zec 8:11 Men nu vil jeg ikke være som i de forrige Dage for det overblevne af dette Folk, siger den Herre Zebaoth.
 Zec 8:12 Thi Fredens Plantning, Vintræet, skal give sin Frugt og Jorden give sin Grøde og Himlene give deres Dug; og jeg vil lade de overblevne af dette Folk arve alle disse Ting.
 Zec 8:13 Og det skal ske, ligesom I af Judas Hus og af Israels Hus vare en Forbandelse iblandt Hedningerne, saaledes vil jeg nu frelse eder, og I skulle vorde en Velsignelse; frygter ikke, eders Hænder vorde stærke!
 Zec 8:14 Thi saa siger den Herre Zebaoth: Ligesom jeg tænkte at gøre eder ondt, der eders Fædre fortørnede mig, siger den Herre Zebaoth, og jeg angrede det ikke:
@@ -23063,19 +23063,19 @@ Zec 8:19 Saa siger den Herre Zebaoth: Fasten i den fjerde Maaned og Fasten i den
 Zec 8:20 Saa siger den Herre Zebaoth: Endnu skal det ske, at Folkeslag skulle komme og mange Stæders Indbyggere;
 Zec 8:21 og den ene Stads Indbyggere skulle gaa til den anden og sige: Lader os gaa hen at bede ydmygelig for Herrens Ansigt og at søge den Herre Zebaoth; — »ogsaa jeg vil gaa«.
 Zec 8:22 Og mange Folkeslag og mægtige Folkefærd skulle komme for at søge den Herre Zebaoth i Jerusalem og bede ydmygelig for Herrens Ansigt.
-Zec 8:23 Saa siger den Herre Zebaoth: Det skal ske i de Dage, at ti Mænd af alle Folkeslags Tungemaal skulle tage fat, ja, tage fat i, en jødisk Mands Flig, og sige: Vi ville gaa med eder, thi vi have hørt, at Gud er med eder.
+Zec 8:23 Saa siger den Herre Zebaoth: Det skal ske i de Dage, at ti Mænd af alle Folkeslags Tungemaal skulle tage fat, ja, tage fat i en jødisk Mands Flig, og sige: Vi ville gaa med eder, thi vi have hørt, at Gud er med eder.
 Zec 9:1 Herrens Ords Profeti er over Kadraks Land, og Damaskus er dets Hvilested — thi Herren har Øje med Mennesker og med alle Israels Stammer —
 Zec 9:2 ogsaa Hamath, som grænser dertil, Tyrus og Zidon; thi den er saare viis.
 Zec 9:3 Og Tyrus byggede sig en Fæstning og sankede Sølv som Støv og Guld som Dynd paa Gaderne.
-Zec 9:4 Se, Herren, skal indtage den og slaa dens Magt paa Havet, og den selv skal fortæres af Ilden.
+Zec 9:4 Se, Herren skal indtage den og slaa dens Magt paa Havet, og den selv skal fortæres af Ilden.
 Zec 9:5 Askalon skal se det og frygte, ligesaa Gaza, og den skal vorde saare bange, samt Ekron; thi dens Haab er blevet til Skamme; og Gaza skal miste sin Konge, og Askalon skal ikke bebos.
-Zec 9:6 Og der skal bo Horebørn i Asdod, og Jeg vil udrydde Filisternes Hovmod.
+Zec 9:6 Og der skal bo Horebørn i Asdod, og jeg vil udrydde Filisternes Hovmod.
 Zec 9:7 Og jeg vil borttage hans Blod af hans Mund og hans Vederstyggeligheder fra hans Tænder, at ogsaa han skal blive tilbage for vor Gud; og han skal være som en Fyrste i Juda og Ekron som en Jebusiter .
 Zec 9:8 Og jeg vil slaa Lejr for mit Hus imod Krigshær, at ingen drager derover frem eller tilbage, og at ingen, Undertrykker ydermere drager over dem; thi jeg har nu set til med mine Øjne.
 Zec 9:9 Fryd dig saare, Zions Datter! raab med Glæde, Jerusalems Datter! se, din Konge kommer til dig, han er retfærdig og frelst, fattig og ridende paa et Asen og paa et ungt Asen, Asenindens Føl.
 Zec 9:10 Og jeg vil udrydde Vogne af Efraim og Heste af Jerusalem, og Krigsbuen skal udryddes, og han skal tale til Hedningerne, saa der bliver Fred; og hans Herredømme skal være fra Hav til Hav og fra Floden indtil Jordens Ender.
 Zec 9:11 Og du! for din Pagts Blods Skyld — dine bundne udlader jeg af en vandløs Hule.
-Zec 9:12 Vender tilbage til Befæstningen, I bundne, som have Haab! endog i Dag forkynder jeg; Jeg vil gengælde dig dobbelt.
+Zec 9:12 Vender tilbage til Befæstningen, I bundne, som have Haab! endog i Dag forkynder jeg: Jeg vil gengælde dig dobbelt.
 Zec 9:13 Thi jeg spænder mig Juda, lægger Efraim paa Buen , og jeg vækker dine Sønner, Zion! imod dine Sønner, Grækenland! og jeg gør dig som den vældiges Sværd.
 Zec 9:14 Og Herren vil lade sig se over dem, og hans Pil skal fare ud som Lynet; og den Herre, Herre skal støde i Basunen og gaa frem i Stormene af Syden.
 Zec 9:15 Den Herre Zebaoth skal beskærme dem, og de skulle æde, og de skulle nedtræde Slyngestene , og de skulle drikke, de skulle rase som af Vin, og de skulle fyldes som Offerskaalen som Alterets Hjørner.
@@ -23099,10 +23099,10 @@ Zec 11:3 Hyrdernes Hyl lyder, thi deres Herlighed er ødelagt; de unge Løvers Brø
 Zec 11:4 Saa sagde Herren, min Gud: Vogt de Slagtefaar,
 Zec 11:5 hvilke de, der købe dem, dræbe og blive ikke strafskyldige, medens de, der sælge dem, sige: Lovet være Herren, at jeg bliver rig; og ingen af deres Hyrder sparer dem.
 Zec 11:6 Thi jeg vil ikke længere spare Jordens Beboere, siger Herren; og se, jeg vil overgive Menneskene den ene i den andens Haand og i hans Konges Haand, og de skulle ødelægge Jorden, og jeg vil ikke redde af deres Haand.
-Zec 11:7 Og jeg fødte Slagtefaarene derhos de elendige af Faarene; og jeg tog mig to Stave, den ene kaldte jeg: »Liflighed« og den anden kaldte jeg: »Baand«, og jeg vogtede Faarene,
+Zec 11:7 Og jeg fødte Slagtefaarene derhos de elendige af Faarene; og jeg tog mig to Stave, den ene kaldte jeg: »Liflighed«, og den anden kaldte jeg: »Baand«, og jeg vogtede Faarene,
 Zec 11:8 og jeg tilintetgjorde de tre af Hyrderne i een Maaned. Men min Sjæl blev utaalmodig over dem , og deres Sjæl blev ogsaa ked af mig;
 Zec 11:9 og jeg sagde: Jeg vil ikke vogte eder; hvad som dør, maa dø, og hvad som omkommer, maa omkomme, og de overblevne maa æde, den ene den andens Kød.
-Zec 11:10 Og jeg tog min Stav »Liflighed og sønderhuggede den for at tilintetgøre min Pagt, som jeg havde gjort med alle Folkeslag.
+Zec 11:10 Og jeg tog min Stav »Liflighed«, og sønderhuggede den for at tilintetgøre min Pagt, som jeg havde gjort med alle Folkeslag.
 Zec 11:11 Og den blev gjort til intet paa samme Dag, og saaledes forstode de elendige af Faarene, som agtede paa mig, at det var Herrens Ord.
 Zec 11:12 Og jeg sagde til dem: Dersom det synes godt for eders Øjne, da giver mig min Løn, og hvis ikke, da lader det være; og de afvejede som min Løn tredive Sekel Sølv.
 Zec 11:13 Og Herren sagde til mig: Kast den hen til Pottemageren, den herlige Pris, som jeg er agtet værd af dem! og jeg tog de tredive Sekel Sølv og kastede dem hen i Herrens Hus til Pottemageren.
